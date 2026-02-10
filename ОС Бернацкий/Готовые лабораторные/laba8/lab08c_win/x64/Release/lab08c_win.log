@@ -1,0 +1,10 @@
+﻿  lab08c_win.cpp
+D:\Универ\ОС Бернацкий\Готовые лабораторные\laba8\lab08c_win\lab08c_win.cpp(17,12): warning C4566: символ, представленный универсальным именем символа "\u2192", невозможно представить в текущей кодовой странице (1251)
+D:\Универ\ОС Бернацкий\Готовые лабораторные\laba8\lab08c_win\lab08c_win.cpp(26,16): warning C4566: символ, представленный универсальным именем символа "\u2192", невозможно представить в текущей кодовой странице (1251)
+D:\Универ\ОС Бернацкий\Готовые лабораторные\laba8\lab08c_win\lab08c_win.cpp(30,143): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  lab08c_win.vcxproj -> D:\Универ\ОС Бернацкий\Готовые лабораторные\laba8\x64\Release\lab08c_win.exe

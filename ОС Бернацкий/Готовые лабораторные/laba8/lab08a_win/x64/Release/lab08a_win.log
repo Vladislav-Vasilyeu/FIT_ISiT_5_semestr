@@ -1,0 +1,8 @@
+﻿  lab08a_win.cpp
+D:\Универ\ОС Бернацкий\Готовые лабораторные\laba8\lab08a_win\lab08a_win.cpp(40,12): warning C4566: символ, представленный универсальным именем символа "\u2192", невозможно представить в текущей кодовой странице (1251)
+  Создание кода
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  lab08a_win.vcxproj -> D:\Универ\ОС Бернацкий\Готовые лабораторные\laba8\x64\Release\lab08a_win.exe

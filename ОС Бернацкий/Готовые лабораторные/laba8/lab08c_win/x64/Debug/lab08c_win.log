@@ -1,0 +1,3 @@
+﻿  lab08c_win.cpp
+D:\Универ\ОС Бернацкий\Готовые лабораторные\laba8\lab08c_win\lab08c_win.cpp(69,22): warning C4244: =: преобразование "SIZE_T" в "int", возможна потеря данных
+  lab08c_win.vcxproj -> D:\Универ\ОС Бернацкий\Готовые лабораторные\laba8\x64\Debug\lab08c_win.exe

@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  MathFactory.cpp
+  Registry.cpp
+  SP02.cpp
+C:\Users\andre\OneDrive\Рабочий стол\5semestr\SP\laba3\Lab2\Lab2\SP02_COM\Registry.cpp(77,24): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  (компиляция исходного файла "/Registry.cpp")
+  
+  dllmain.cpp
+  Создание кода...
+SP02_COM.def(1): warning LNK4017: оператор LIBARY не поддерживается на конечной платформе; пропущен
+     Создается библиотека C:\Users\andre\OneDrive\Рабочий стол\5semestr\SP\laba3\Lab2\Lab2\x64\Debug\SP02_COM.lib и объект C:\Users\andre\OneDrive\Рабочий стол\5semestr\SP\laba3\Lab2\Lab2\x64\Debug\SP02_COM.exp
+  SP02_COM.vcxproj -> C:\Users\andre\OneDrive\Рабочий стол\5semestr\SP\laba3\Lab2\Lab2\x64\Debug\SP02_COM.dll

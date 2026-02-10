@@ -1,0 +1,10 @@
+regsvr32
+regsvr32 /u
+regedit
+Компьютер\HKEY_CLASSES_ROOT\CLSID\{22499E77-F234-4F9C-815E-B537B6C86548}
+
+C:\WINDOWS\system32>cd "C:\Users\andre\OneDrive\Рабочий стол\5semestr\SP\laba3\Lab2\Lab2\x64\Debug"
+
+C:\Users\andre\OneDrive\Рабочий стол\5semestr\SP\laba3\Lab2\Lab2\x64\Debug>regsvr32 SP02_COM.dll
+
+C:\Users\andre\OneDrive\Рабочий стол\5semestr\SP\laba3\Lab2\Lab2\x64\Debug>

@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+  Math.cpp
+  MathFactory.cpp
+  Registry.cpp
+  Создание кода...
+     Создается библиотека D:\Универ\СП Смелов\lab03\x64\Debug\OS12_COM.lib и объект D:\Универ\СП Смелов\lab03\x64\Debug\OS12_COM.exp
+OS12_COM.exp : warning LNK4070: директива /OUT:OS_COM.dll в .EXP отличается от имени выходного файла "D:\Универ\СП Смелов\lab03\x64\Debug\OS12_COM.dll"; директива игнорируется
+  OS12_COM.vcxproj -> D:\Универ\СП Смелов\lab03\x64\Debug\OS12_COM.dll

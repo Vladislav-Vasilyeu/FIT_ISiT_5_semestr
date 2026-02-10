@@ -1,0 +1,25 @@
+﻿Сборка начата 28.11.2025 10:19:37.
+Уровень детализации журнала: Normal.     1>Проект "D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\OS10_02\OS10_02.vcxproj" в узле 5 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\OS10_02.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\OS10_02.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt OS10_02.cpp
+         OS10_02.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\x64\Debug\OS10_02.exe" /INCREMENTAL /ILK:"x64\Debug\OS10_02.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\x64\Debug\OS10_02.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\x64\Debug\OS10_02.lib" /MACHINE:X64 x64\Debug\OS10_02.obj
+     1>LINK : fatal error LNK1104: не удается открыть файл "../x64/debug/OS10_HTAPI.lib"
+     1>Сборка проекта "D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\OS10_02\OS10_02.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\OS10_02\OS10_02.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект Link) -> 
+         LINK : fatal error LNK1104: не удается открыть файл "../x64/debug/OS10_HTAPI.lib"
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:01.14

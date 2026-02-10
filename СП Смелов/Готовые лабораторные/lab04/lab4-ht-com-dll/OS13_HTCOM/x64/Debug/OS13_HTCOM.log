@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  ClassFactory.cpp
+  ComponentHT.cpp
+  dllmain.cpp
+  ExportFunctions.cpp
+  Registry.cpp
+  Создание кода...
+D:\Универ\СП Смелов\Готовые лабораторные\lab04\lab4-ht-com-dll\OS13_HTCOM\Registry.cpp(144,24): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  (компиляция исходного файла "/Registry.cpp")
+  
+OS10_HTAPI.lib(Element.obj) : warning LNK4099: "OS10_HTAPI.pdb" PDB не найден с "OS10_HTAPI.lib(Element.obj)" или на "D:\Универ\СП Смелов\Готовые лабораторные\lab04\lab4-ht-com-dll\x64\Debug\OS10_HTAPI.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+OS10_HTAPI.lib(HT.obj) : warning LNK4099: "OS10_HTAPI.pdb" PDB не найден с "OS10_HTAPI.lib(HT.obj)" или на "D:\Универ\СП Смелов\Готовые лабораторные\lab04\lab4-ht-com-dll\x64\Debug\OS10_HTAPI.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     Создается библиотека D:\Универ\СП Смелов\Готовые лабораторные\lab04\lab4-ht-com-dll\x64\Debug\OS13_HTCOM.lib и объект D:\Универ\СП Смелов\Готовые лабораторные\lab04\lab4-ht-com-dll\x64\Debug\OS13_HTCOM.exp
+  OS13_HTCOM.vcxproj -> D:\Универ\СП Смелов\Готовые лабораторные\lab04\lab4-ht-com-dll\x64\Debug\OS13_HTCOM.dll

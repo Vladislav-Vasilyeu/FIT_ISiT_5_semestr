@@ -1,0 +1,39 @@
+﻿Сборка начата 11.12.2025 19:12:20.
+Уровень детализации журнала: Normal.     1>Проект "D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\OS10_HTAPI\OS10_HTAPI.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "x64\Debug\OS10_HTAPI.tlog\OS10_HTAPI.lastbuildstate" удаляется.
+       PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "x64\Debug\OS10_HTAPI.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\x64\Debug\OS10_HTAPI.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Element.cpp HT.cpp pch.cpp
+         Element.cpp
+         HT.cpp
+     1>D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\OS10_HTAPI\HT.cpp(499,21): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\OS10_HTAPI\HT.cpp(524,23): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\OS10_HTAPI\HT.cpp(550,22): warning C4018: <: несоответствие типов со знаком и без знака
+         pch.cpp
+         Создание кода...
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\bin\HostX64\x64\Lib.exe /OUT:"D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\x64\Debug\OS10_HTAPI.lib" /NOLOGO /MACHINE:X64 x64\Debug\Element.obj
+         x64\Debug\HT.obj
+         x64\Debug\pch.obj
+         OS10_HTAPI.vcxproj -> D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\x64\Debug\OS10_HTAPI.lib
+       FinalizeBuildStatus:
+         Файл "x64\Debug\OS10_HTAPI.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\OS10_HTAPI.tlog\OS10_HTAPI.lastbuildstate".
+     1>Сборка проекта "D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\OS10_HTAPI\OS10_HTAPI.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+       "D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\OS10_HTAPI\OS10_HTAPI.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\OS10_HTAPI\HT.cpp(499,21): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\OS10_HTAPI\HT.cpp(524,23): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\5СЕМ\СП\4 лаба\OS_Lab13\HTI\OS10_HTAPI\HT.cpp(550,22): warning C4018: <: несоответствие типов со знаком и без знака
+
+    Предупреждений: 3
+    Ошибок: 0
+
+Прошло времени 00:00:02.72

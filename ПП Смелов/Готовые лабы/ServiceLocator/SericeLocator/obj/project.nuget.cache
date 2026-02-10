@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ADNWnD32res=",
+  "success": true,
+  "projectFilePath": "D:\\Универ\\ПП Смелов\\Готовые лабы\\ServiceLocator\\SericeLocator\\SericeLocatorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vasil\\.nuget\\packages\\nunit\\4.4.0\\nunit.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

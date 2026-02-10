@@ -1,0 +1,12 @@
+D:\Универ\ПП Смелов\Готовые лабы\laba4\DAL_LES\obj\Debug\net8.0\DAL_LES.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba4\DAL_LES\obj\Debug\net8.0\DAL_LES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ПП Смелов\Готовые лабы\laba4\DAL_LES\obj\Debug\net8.0\DAL_LES.AssemblyInfoInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba4\DAL_LES\obj\Debug\net8.0\DAL_LES.AssemblyInfo.cs
+D:\Универ\ПП Смелов\Готовые лабы\laba4\DAL_LES\obj\Debug\net8.0\DAL_LES.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba4\DAL_LES\bin\Debug\net8.0\DAL_LES.deps.json
+D:\Универ\ПП Смелов\Готовые лабы\laba4\DAL_LES\bin\Debug\net8.0\DAL_LES.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba4\DAL_LES\bin\Debug\net8.0\DAL_LES.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba4\DAL_LES\obj\Debug\net8.0\DAL_LES.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba4\DAL_LES\obj\Debug\net8.0\refint\DAL_LES.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba4\DAL_LES\obj\Debug\net8.0\DAL_LES.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba4\DAL_LES\obj\Debug\net8.0\ref\DAL_LES.dll

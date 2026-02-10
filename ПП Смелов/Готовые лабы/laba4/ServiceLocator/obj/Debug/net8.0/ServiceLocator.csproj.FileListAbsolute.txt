@@ -1,0 +1,15 @@
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\bin\Debug\net8.0\ServiceLocator.deps.json
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\bin\Debug\net8.0\ServiceLocator.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\bin\Debug\net8.0\ServiceLocator.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ServiceLocator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ServiceLocator.AssemblyInfoInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ServiceLocator.AssemblyInfo.cs
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ServiceLocator.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ServiceLocator.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\refint\ServiceLocator.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ServiceLocator.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ref\ServiceLocator.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\bin\Debug\net8.0\DAL_LES.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\bin\Debug\net8.0\DAL_LES.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ServiceLocator.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ServiceL.A03D447A.Up2Date

@@ -1,0 +1,11 @@
+D:\Универ\ПП Смелов\laba1\DAL_12_JSON\bin\Debug\net8.0\DAL_12_JSON.deps.json
+D:\Универ\ПП Смелов\laba1\DAL_12_JSON\bin\Debug\net8.0\DAL_12_JSON.dll
+D:\Универ\ПП Смелов\laba1\DAL_12_JSON\bin\Debug\net8.0\DAL_12_JSON.pdb
+D:\Универ\ПП Смелов\laba1\DAL_12_JSON\obj\Debug\net8.0\DAL_12_JSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ПП Смелов\laba1\DAL_12_JSON\obj\Debug\net8.0\DAL_12_JSON.AssemblyInfoInputs.cache
+D:\Универ\ПП Смелов\laba1\DAL_12_JSON\obj\Debug\net8.0\DAL_12_JSON.AssemblyInfo.cs
+D:\Универ\ПП Смелов\laba1\DAL_12_JSON\obj\Debug\net8.0\DAL_12_JSON.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\laba1\DAL_12_JSON\obj\Debug\net8.0\DAL_12_JSON.dll
+D:\Универ\ПП Смелов\laba1\DAL_12_JSON\obj\Debug\net8.0\refint\DAL_12_JSON.dll
+D:\Универ\ПП Смелов\laba1\DAL_12_JSON\obj\Debug\net8.0\DAL_12_JSON.pdb
+D:\Универ\ПП Смелов\laba1\DAL_12_JSON\obj\Debug\net8.0\ref\DAL_12_JSON.dll

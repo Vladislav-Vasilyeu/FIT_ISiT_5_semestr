@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39A27A00-C8DC-4C23-82EB-23272C3EFB82}|DAL\\DAL.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\dal\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A27A00-C8DC-4C23-82EB-23272C3EFB82}|DAL\\DAL.csproj|solutionrelative:dal\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A27A00-C8DC-4C23-82EB-23272C3EFB82}|DAL\\DAL.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A27A00-C8DC-4C23-82EB-23272C3EFB82}|DAL\\DAL.csproj|solutionrelative:dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A27A00-C8DC-4C23-82EB-23272C3EFB82}|DAL\\DAL.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\dal\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A27A00-C8DC-4C23-82EB-23272C3EFB82}|DAL\\DAL.csproj|solutionrelative:dal\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A27A00-C8DC-4C23-82EB-23272C3EFB82}|DAL\\DAL.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\dal\\wsref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A27A00-C8DC-4C23-82EB-23272C3EFB82}|DAL\\DAL.csproj|solutionrelative:dal\\wsref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D67A5C3-5D0A-45D8-90C5-B63092530A7B}|Test_DAL\\Test_DAL.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\test_dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D67A5C3-5D0A-45D8-90C5-B63092530A7B}|Test_DAL\\Test_DAL.csproj|solutionrelative:test_dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A27A00-C8DC-4C23-82EB-23272C3EFB82}|DAL\\DAL.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\dal\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A27A00-C8DC-4C23-82EB-23272C3EFB82}|DAL\\DAL.csproj|solutionrelative:dal\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\DAL\\Comment.cs",
+              "RelativeDocumentMoniker": "DAL\\Comment.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\DAL\\Comment.cs",
+              "RelativeToolTip": "DAL\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:22:13.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WSRef.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\DAL\\WSRef.cs",
+              "RelativeDocumentMoniker": "DAL\\WSRef.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\DAL\\WSRef.cs",
+              "RelativeToolTip": "DAL\\WSRef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:20:26.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Init.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\DAL\\Init.cs",
+              "RelativeDocumentMoniker": "DAL\\Init.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\DAL\\Init.cs",
+              "RelativeToolTip": "DAL\\Init.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:01:03.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\DAL\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\DAL\\Repository.cs",
+              "RelativeToolTip": "DAL\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:49:06.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\DAL\\Context.cs",
+              "RelativeDocumentMoniker": "DAL\\Context.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\DAL\\Context.cs",
+              "RelativeToolTip": "DAL\\Context.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:39:50.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\Test_DAL\\Program.cs",
+              "RelativeDocumentMoniker": "Test_DAL\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba1\\Test_DAL\\Program.cs",
+              "RelativeToolTip": "Test_DAL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:24:14.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

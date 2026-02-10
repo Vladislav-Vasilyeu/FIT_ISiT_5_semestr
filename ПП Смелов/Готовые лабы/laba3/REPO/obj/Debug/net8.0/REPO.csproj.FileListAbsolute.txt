@@ -1,0 +1,12 @@
+D:\Универ\ПП Смелов\Готовые лабы\laba3\REPO\bin\Debug\net8.0\REPO.deps.json
+D:\Универ\ПП Смелов\Готовые лабы\laba3\REPO\bin\Debug\net8.0\REPO.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba3\REPO\bin\Debug\net8.0\REPO.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba3\REPO\obj\Debug\net8.0\REPO.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba3\REPO\obj\Debug\net8.0\REPO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ПП Смелов\Готовые лабы\laba3\REPO\obj\Debug\net8.0\REPO.AssemblyInfoInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba3\REPO\obj\Debug\net8.0\REPO.AssemblyInfo.cs
+D:\Универ\ПП Смелов\Готовые лабы\laba3\REPO\obj\Debug\net8.0\REPO.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba3\REPO\obj\Debug\net8.0\REPO.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba3\REPO\obj\Debug\net8.0\refint\REPO.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba3\REPO\obj\Debug\net8.0\REPO.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba3\REPO\obj\Debug\net8.0\ref\REPO.dll

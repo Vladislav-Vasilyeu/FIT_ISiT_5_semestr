@@ -1,0 +1,12 @@
+D:\Универ\ПП Смелов\Готовые лабы\laba2\DALJSON\bin\Debug\net8.0\DALJSON.deps.json
+D:\Универ\ПП Смелов\Готовые лабы\laba2\DALJSON\bin\Debug\net8.0\DALJSON.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba2\DALJSON\bin\Debug\net8.0\DALJSON.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba2\DALJSON\obj\Debug\net8.0\DALJSON.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba2\DALJSON\obj\Debug\net8.0\DALJSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ПП Смелов\Готовые лабы\laba2\DALJSON\obj\Debug\net8.0\DALJSON.AssemblyInfoInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba2\DALJSON\obj\Debug\net8.0\DALJSON.AssemblyInfo.cs
+D:\Универ\ПП Смелов\Готовые лабы\laba2\DALJSON\obj\Debug\net8.0\DALJSON.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba2\DALJSON\obj\Debug\net8.0\DALJSON.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba2\DALJSON\obj\Debug\net8.0\refint\DALJSON.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba2\DALJSON\obj\Debug\net8.0\DALJSON.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba2\DALJSON\obj\Debug\net8.0\ref\DALJSON.dll

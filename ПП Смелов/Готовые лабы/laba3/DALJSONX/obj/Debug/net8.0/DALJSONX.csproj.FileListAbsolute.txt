@@ -1,0 +1,15 @@
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\bin\Debug\net8.0\DALJSONX.deps.json
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\bin\Debug\net8.0\DALJSONX.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\bin\Debug\net8.0\DALJSONX.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\bin\Debug\net8.0\REPO.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\bin\Debug\net8.0\REPO.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\obj\Debug\net8.0\DALJSONX.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\obj\Debug\net8.0\DALJSONX.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\obj\Debug\net8.0\DALJSONX.AssemblyInfoInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\obj\Debug\net8.0\DALJSONX.AssemblyInfo.cs
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\obj\Debug\net8.0\DALJSONX.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\obj\Debug\net8.0\DALJSONX.csproj.Up2Date
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\obj\Debug\net8.0\DALJSONX.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\obj\Debug\net8.0\refint\DALJSONX.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\obj\Debug\net8.0\DALJSONX.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALJSONX\obj\Debug\net8.0\ref\DALJSONX.dll

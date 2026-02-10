@@ -1,0 +1,11 @@
+D:\Универ\ПП Смелов\Готовые лабы\laba3\GREPO\bin\Debug\net8.0\GREPO.deps.json
+D:\Универ\ПП Смелов\Готовые лабы\laba3\GREPO\bin\Debug\net8.0\GREPO.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba3\GREPO\bin\Debug\net8.0\GREPO.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba3\GREPO\obj\Debug\net8.0\GREPO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ПП Смелов\Готовые лабы\laba3\GREPO\obj\Debug\net8.0\GREPO.AssemblyInfoInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba3\GREPO\obj\Debug\net8.0\GREPO.AssemblyInfo.cs
+D:\Универ\ПП Смелов\Готовые лабы\laba3\GREPO\obj\Debug\net8.0\GREPO.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba3\GREPO\obj\Debug\net8.0\GREPO.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba3\GREPO\obj\Debug\net8.0\refint\GREPO.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba3\GREPO\obj\Debug\net8.0\GREPO.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba3\GREPO\obj\Debug\net8.0\ref\GREPO.dll

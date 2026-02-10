@@ -1,0 +1,11 @@
+D:\Универ\ПП Смелов\Готовые лабы\ServiceLocator\SericeLocator\bin\Debug\net8.0\SericeLocator.deps.json
+D:\Универ\ПП Смелов\Готовые лабы\ServiceLocator\SericeLocator\bin\Debug\net8.0\SericeLocator.dll
+D:\Универ\ПП Смелов\Готовые лабы\ServiceLocator\SericeLocator\bin\Debug\net8.0\SericeLocator.pdb
+D:\Универ\ПП Смелов\Готовые лабы\ServiceLocator\SericeLocator\obj\Debug\net8.0\SericeLocator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ПП Смелов\Готовые лабы\ServiceLocator\SericeLocator\obj\Debug\net8.0\SericeLocator.AssemblyInfoInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\ServiceLocator\SericeLocator\obj\Debug\net8.0\SericeLocator.AssemblyInfo.cs
+D:\Универ\ПП Смелов\Готовые лабы\ServiceLocator\SericeLocator\obj\Debug\net8.0\SericeLocator.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\ServiceLocator\SericeLocator\obj\Debug\net8.0\SericeLocator.dll
+D:\Универ\ПП Смелов\Готовые лабы\ServiceLocator\SericeLocator\obj\Debug\net8.0\refint\SericeLocator.dll
+D:\Универ\ПП Смелов\Готовые лабы\ServiceLocator\SericeLocator\obj\Debug\net8.0\SericeLocator.pdb
+D:\Универ\ПП Смелов\Готовые лабы\ServiceLocator\SericeLocator\obj\Debug\net8.0\ref\SericeLocator.dll

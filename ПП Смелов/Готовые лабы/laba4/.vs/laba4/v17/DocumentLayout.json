@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{852C178A-CBF9-45B2-9CA3-36E976BD3CC6}|ServiceLocator\\ServiceLocator.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\servicelocator\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852C178A-CBF9-45B2-9CA3-36E976BD3CC6}|ServiceLocator\\ServiceLocator.csproj|solutionrelative:servicelocator\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A20BC1-D4B8-4AAF-8E3C-D33F042B8D9D}|Test_ServiceLocator\\Test_ServiceLocator.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\test_servicelocator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A20BC1-D4B8-4AAF-8E3C-D33F042B8D9D}|Test_ServiceLocator\\Test_ServiceLocator.csproj|solutionrelative:test_servicelocator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852C178A-CBF9-45B2-9CA3-36E976BD3CC6}|ServiceLocator\\ServiceLocator.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\servicelocator\\servicescope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852C178A-CBF9-45B2-9CA3-36E976BD3CC6}|ServiceLocator\\ServiceLocator.csproj|solutionrelative:servicelocator\\servicescope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852C178A-CBF9-45B2-9CA3-36E976BD3CC6}|ServiceLocator\\ServiceLocator.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\servicelocator\\servicescopefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852C178A-CBF9-45B2-9CA3-36E976BD3CC6}|ServiceLocator\\ServiceLocator.csproj|solutionrelative:servicelocator\\servicescopefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852C178A-CBF9-45B2-9CA3-36E976BD3CC6}|ServiceLocator\\ServiceLocator.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\servicelocator\\servicedescriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852C178A-CBF9-45B2-9CA3-36E976BD3CC6}|ServiceLocator\\ServiceLocator.csproj|solutionrelative:servicelocator\\servicedescriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC91593-3CCC-4221-93BD-39F8D73BE1C5}|Test_DAL_LES\\Test_DAL_LES.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\test_dal_les\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC91593-3CCC-4221-93BD-39F8D73BE1C5}|Test_DAL_LES\\Test_DAL_LES.csproj|solutionrelative:test_dal_les\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E3A543-C12B-4EAE-8546-6E149181CDA0}|Test_SL_LES\\Test_SL_LES.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\test_sl_les\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E3A543-C12B-4EAE-8546-6E149181CDA0}|Test_SL_LES\\Test_SL_LES.csproj|solutionrelative:test_sl_les\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852C178A-CBF9-45B2-9CA3-36E976BD3CC6}|ServiceLocator\\ServiceLocator.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\servicelocator\\cashcelebrities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852C178A-CBF9-45B2-9CA3-36E976BD3CC6}|ServiceLocator\\ServiceLocator.csproj|solutionrelative:servicelocator\\cashcelebrities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852C178A-CBF9-45B2-9CA3-36E976BD3CC6}|ServiceLocator\\ServiceLocator.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\servicelocator\\icashcelebrities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852C178A-CBF9-45B2-9CA3-36E976BD3CC6}|ServiceLocator\\ServiceLocator.csproj|solutionrelative:servicelocator\\icashcelebrities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D410A3D-A3D2-4614-AF11-B22E9F101EAF}|DAL_LES\\DAL_LES.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\dal_les\\lesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D410A3D-A3D2-4614-AF11-B22E9F101EAF}|DAL_LES\\DAL_LES.csproj|solutionrelative:dal_les\\lesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D410A3D-A3D2-4614-AF11-B22E9F101EAF}|DAL_LES\\DAL_LES.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\dal_les\\lesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D410A3D-A3D2-4614-AF11-B22E9F101EAF}|DAL_LES\\DAL_LES.csproj|solutionrelative:dal_les\\lesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852C178A-CBF9-45B2-9CA3-36E976BD3CC6}|ServiceLocator\\ServiceLocator.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\servicelocator\\servicelifetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852C178A-CBF9-45B2-9CA3-36E976BD3CC6}|ServiceLocator\\ServiceLocator.csproj|solutionrelative:servicelocator\\servicelifetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 800,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\Test_ServiceLocator\\Program.cs",
+              "RelativeDocumentMoniker": "Test_ServiceLocator\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\Test_ServiceLocator\\Program.cs",
+              "RelativeToolTip": "Test_ServiceLocator\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwDUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T22:55:49.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LesRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\DAL_LES\\LesRepository.cs",
+              "RelativeDocumentMoniker": "DAL_LES\\LesRepository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\DAL_LES\\LesRepository.cs",
+              "RelativeToolTip": "DAL_LES\\LesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:16:36.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CashCelebrities.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\ServiceLocator\\CashCelebrities.cs",
+              "RelativeDocumentMoniker": "ServiceLocator\\CashCelebrities.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\ServiceLocator\\CashCelebrities.cs",
+              "RelativeToolTip": "ServiceLocator\\CashCelebrities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:19:41.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceDescriptor.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\ServiceLocator\\ServiceDescriptor.cs",
+              "RelativeDocumentMoniker": "ServiceLocator\\ServiceDescriptor.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\ServiceLocator\\ServiceDescriptor.cs",
+              "RelativeToolTip": "ServiceLocator\\ServiceDescriptor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:19:34.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceScopeFactory.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\ServiceLocator\\ServiceScopeFactory.cs",
+              "RelativeDocumentMoniker": "ServiceLocator\\ServiceScopeFactory.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\ServiceLocator\\ServiceScopeFactory.cs",
+              "RelativeToolTip": "ServiceLocator\\ServiceScopeFactory.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:19:49.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceLocator.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\ServiceLocator\\ServiceLocator.cs",
+              "RelativeDocumentMoniker": "ServiceLocator\\ServiceLocator.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\ServiceLocator\\ServiceLocator.cs",
+              "RelativeToolTip": "ServiceLocator\\ServiceLocator.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwD8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:17:34.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LesDbContext.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\DAL_LES\\LesDbContext.cs",
+              "RelativeDocumentMoniker": "DAL_LES\\LesDbContext.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\DAL_LES\\LesDbContext.cs",
+              "RelativeToolTip": "DAL_LES\\LesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:50:10.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\Test_DAL_LES\\Program.cs",
+              "RelativeDocumentMoniker": "Test_DAL_LES\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\Test_DAL_LES\\Program.cs",
+              "RelativeToolTip": "Test_DAL_LES\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T22:56:22.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceLifetime.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\ServiceLocator\\ServiceLifetime.cs",
+              "RelativeDocumentMoniker": "ServiceLocator\\ServiceLifetime.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\ServiceLocator\\ServiceLifetime.cs",
+              "RelativeToolTip": "ServiceLocator\\ServiceLifetime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:19:32.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICashCelebrities.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\ServiceLocator\\ICashCelebrities.cs",
+              "RelativeDocumentMoniker": "ServiceLocator\\ICashCelebrities.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\ServiceLocator\\ICashCelebrities.cs",
+              "RelativeToolTip": "ServiceLocator\\ICashCelebrities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:19:39.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceScope.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\ServiceLocator\\ServiceScope.cs",
+              "RelativeDocumentMoniker": "ServiceLocator\\ServiceScope.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\ServiceLocator\\ServiceScope.cs",
+              "RelativeToolTip": "ServiceLocator\\ServiceScope.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:19:19.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\Test_SL_LES\\Program.cs",
+              "RelativeDocumentMoniker": "Test_SL_LES\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\Test_SL_LES\\Program.cs",
+              "RelativeToolTip": "Test_SL_LES\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwF8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T22:22:09.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Program.cs",
+              "RelativeDocumentMoniker": "\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\laba4\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Program.cs",
+              "RelativeToolTip": "\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T22:40:46.544Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 800,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\bin\Debug\net8.0\ServicLocator.deps.json
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\bin\Debug\net8.0\ServicLocator.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\bin\Debug\net8.0\ServicLocator.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ServicLocator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ServicLocator.AssemblyInfoInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ServicLocator.AssemblyInfo.cs
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ServicLocator.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ServicLocator.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\refint\ServicLocator.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ServicLocator.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba4\ServiceLocator\obj\Debug\net8.0\ref\ServicLocator.dll

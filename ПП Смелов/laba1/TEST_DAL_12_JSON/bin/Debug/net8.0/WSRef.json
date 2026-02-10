@@ -1,0 +1,79 @@
+[
+  {
+    "Comments": [
+      {
+        "Id": 1,
+        "Stamp": "2025-03-11T15:43:30.1624849+03:00",
+        "Commtext": "very useful link",
+        "WSrefId": 1
+      },
+      {
+        "Id": 2,
+        "Stamp": "2025-03-11T15:43:30.1702059+03:00",
+        "Commtext": "bad link",
+        "WSrefId": 1
+      }
+    ],
+    "Description": "Oracle, DMBS, PL/SQL",
+    "Id": 1,
+    "Minus": 1,
+    "Plus": 3,
+    "Url": "https://www.oracle.com"
+  },
+  {
+    "Id": 2,
+    "Url": "https://jakarta.ee/",
+    "Description": "Java, Jakarta, Java SE, J2EE",
+    "Plus": 5,
+    "Minus": 2,
+    "Comments": [
+      {
+        "Id": 3,
+        "Stamp": "2025-03-11T15:43:30.1708079+03:00",
+        "Commtext": "deprecated information",
+        "WSrefId": 2
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Url": "https://www.belstu.by/",
+    "Description": "\u0411\u0413\u0422\u0423",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": [
+      {
+        "Id": 4,
+        "Stamp": "2025-03-11T15:43:30.1980317+03:00",
+        "Commtext": "test",
+        "WSrefId": 3
+      },
+      {
+        "Id": 5,
+        "Stamp": "2025-03-11T15:53:46.5722026+03:00",
+        "Commtext": "test",
+        "WSrefId": 3
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Url": "https://www.belstu.by/",
+    "Description": "\u0411\u0413\u0422\u0423",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": []
+  }
+]23",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": [
+      {
+        "Id": 4,
+        "Stamp": "2025-03-11T15:43:30.1980317+03:00",
+        "Commtext": "test",
+        "WSrefId": 3
+      }
+    ]
+  }
+]

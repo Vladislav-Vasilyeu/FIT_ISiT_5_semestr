@@ -1,0 +1,57 @@
+[
+  {
+    "Id": 1,
+    "Url": "https://www.oracle.com",
+    "Description": "Oracle, DMBS, PL/SQL",
+    "Plus": 3,
+    "Minus": 1,
+    "Comments": [
+      {
+        "Id": 1,
+        "CommText": "very useful link",
+        "WSRefId": 1,
+        "Stamp": "2025-03-24T23:58:38.9377702+03:00",
+        "WSRef": null
+      },
+      {
+        "Id": 2,
+        "CommText": "bad link",
+        "WSRefId": 1,
+        "Stamp": "2025-03-24T23:58:38.9472423+03:00",
+        "WSRef": null
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Url": "https://jakarta.ee/",
+    "Description": "Java, Jakarta, Java SE, J2EE",
+    "Plus": 5,
+    "Minus": 2,
+    "Comments": [
+      {
+        "Id": 3,
+        "CommText": "deprecated information",
+        "WSRefId": 2,
+        "Stamp": "2025-03-24T23:58:38.9477161+03:00",
+        "WSRef": null
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Url": "https://www.belstu.by/",
+    "Description": "\u0411\u0413\u0422\u0423",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": [
+      {
+        "Id": 4,
+        "CommText": "test",
+        "WSRefId": 3,
+        "Stamp": "2025-03-24T23:58:39.0010175+03:00",
+        "WSRef": null
+      }
+    ]
+  }
+]

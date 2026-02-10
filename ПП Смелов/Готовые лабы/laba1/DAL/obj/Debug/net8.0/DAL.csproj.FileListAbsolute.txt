@@ -1,0 +1,12 @@
+D:\Универ\ПП Смелов\Готовые лабы\laba1\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Универ\ПП Смелов\Готовые лабы\laba1\DAL\bin\Debug\net8.0\DAL.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba1\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba1\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba1\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ПП Смелов\Готовые лабы\laba1\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba1\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Универ\ПП Смелов\Готовые лабы\laba1\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba1\DAL\obj\Debug\net8.0\DAL.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba1\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba1\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba1\DAL\obj\Debug\net8.0\ref\DAL.dll

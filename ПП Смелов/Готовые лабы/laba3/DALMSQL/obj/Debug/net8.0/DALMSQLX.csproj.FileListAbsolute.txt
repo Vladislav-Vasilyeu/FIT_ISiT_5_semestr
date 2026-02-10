@@ -1,0 +1,15 @@
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\bin\Debug\net8.0\DALMSQLX.deps.json
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\bin\Debug\net8.0\DALMSQLX.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\bin\Debug\net8.0\DALMSQLX.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\bin\Debug\net8.0\REPO.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\bin\Debug\net8.0\REPO.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\obj\Debug\net8.0\DALMSQLX.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\obj\Debug\net8.0\DALMSQLX.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\obj\Debug\net8.0\DALMSQLX.AssemblyInfoInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\obj\Debug\net8.0\DALMSQLX.AssemblyInfo.cs
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\obj\Debug\net8.0\DALMSQLX.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\obj\Debug\net8.0\DALMSQLX.csproj.Up2Date
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\obj\Debug\net8.0\DALMSQLX.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\obj\Debug\net8.0\refint\DALMSQLX.dll
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\obj\Debug\net8.0\DALMSQLX.pdb
+D:\Универ\ПП Смелов\Готовые лабы\laba3\DALMSQL\obj\Debug\net8.0\ref\DALMSQLX.dll

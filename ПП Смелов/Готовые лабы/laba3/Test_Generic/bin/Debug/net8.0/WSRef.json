@@ -1,0 +1,144 @@
+[
+  {
+    "Id": 1,
+    "Url": "belstu.by",
+    "Description": "",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": []
+  },
+  {
+    "Id": 2,
+    "Url": "belstu.by",
+    "Description": "",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": [
+      {
+        "Id": 1,
+        "CommText": "\u0422\u0435\u043A\u0441\u0442 \u0438\u0437\u043C\u0435\u043D\u0435\u043D",
+        "WSRefId": 2,
+        "Stamp": "2025-07-01T11:08:32.3940851Z",
+        "WSRef": null
+      },
+      {
+        "Id": 2,
+        "CommText": "\u0422\u0435\u043A\u0441\u0442 \u0438\u0437\u043C\u0435\u043D\u0435\u043D",
+        "WSRefId": 2,
+        "Stamp": "2025-07-01T11:09:09.7600396Z",
+        "WSRef": null
+      },
+      {
+        "Id": 3,
+        "CommText": "\u0422\u0435\u043A\u0441\u0442 \u0438\u0437\u043C\u0435\u043D\u0435\u043D",
+        "WSRefId": 2,
+        "Stamp": "2025-07-02T10:51:20.0096806Z",
+        "WSRef": null
+      },
+      {
+        "Id": 4,
+        "CommText": "\u0422\u0435\u043A\u0441\u0442 \u0438\u0437\u043C\u0435\u043D\u0435\u043D",
+        "WSRefId": 2,
+        "Stamp": "2025-07-02T10:53:42.2433309Z",
+        "WSRef": null
+      },
+      {
+        "Id": 7,
+        "CommText": "\u0422\u0435\u043A\u0441\u0442 \u0438\u0437\u043C\u0435\u043D\u0435\u043D",
+        "WSRefId": 2,
+        "Stamp": "2025-07-02T10:58:20.0877564Z",
+        "WSRef": null
+      },
+      {
+        "Id": 10,
+        "CommText": "\u0422\u0435\u043A\u0441\u0442 \u0438\u0437\u043C\u0435\u043D\u0435\u043D",
+        "WSRefId": 2,
+        "Stamp": "2025-09-05T10:17:28.0930968Z",
+        "WSRef": null
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Url": "belstu.by",
+    "Description": "",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": [
+      {
+        "Id": 5,
+        "CommText": "\u041D\u043E\u0432\u044B\u0439 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u0439",
+        "WSRefId": 3,
+        "Stamp": "2025-07-02T10:53:42.2541734Z",
+        "WSRef": null
+      },
+      {
+        "Id": 6,
+        "CommText": "\u041D\u043E\u0432\u044B\u0439 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u04392",
+        "WSRefId": 3,
+        "Stamp": "2025-07-02T10:53:42.2549347Z",
+        "WSRef": null
+      },
+      {
+        "Id": 8,
+        "CommText": "\u041D\u043E\u0432\u044B\u0439 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u0439",
+        "WSRefId": 3,
+        "Stamp": "2025-07-02T10:58:20.0989502Z",
+        "WSRef": null
+      },
+      {
+        "Id": 9,
+        "CommText": "\u041D\u043E\u0432\u044B\u0439 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u04392",
+        "WSRefId": 3,
+        "Stamp": "2025-07-02T10:58:20.1216887Z",
+        "WSRef": null
+      },
+      {
+        "Id": 11,
+        "CommText": "\u041D\u043E\u0432\u044B\u0439 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u0439",
+        "WSRefId": 3,
+        "Stamp": "2025-09-05T10:17:28.1048622Z",
+        "WSRef": null
+      },
+      {
+        "Id": 12,
+        "CommText": "\u041D\u043E\u0432\u044B\u0439 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u04392",
+        "WSRefId": 3,
+        "Stamp": "2025-09-05T10:17:28.1302051Z",
+        "WSRef": null
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Url": "belstu.by",
+    "Description": "",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": []
+  },
+  {
+    "Id": 5,
+    "Url": "belstu.by",
+    "Description": "",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": []
+  },
+  {
+    "Id": 6,
+    "Url": "belstu.by",
+    "Description": "",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": []
+  },
+  {
+    "Id": 7,
+    "Url": "belstu.by",
+    "Description": "",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": []
+  }
+]

@@ -1,0 +1,12 @@
+D:\Универ\ПП Смелов\laba1\DBLevel\bin\Debug\net8.0\DBLevel.deps.json
+D:\Универ\ПП Смелов\laba1\DBLevel\bin\Debug\net8.0\DBLevel.dll
+D:\Универ\ПП Смелов\laba1\DBLevel\bin\Debug\net8.0\DBLevel.pdb
+D:\Универ\ПП Смелов\laba1\DBLevel\obj\Debug\net8.0\DBLevel.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\laba1\DBLevel\obj\Debug\net8.0\DBLevel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ПП Смелов\laba1\DBLevel\obj\Debug\net8.0\DBLevel.AssemblyInfoInputs.cache
+D:\Универ\ПП Смелов\laba1\DBLevel\obj\Debug\net8.0\DBLevel.AssemblyInfo.cs
+D:\Универ\ПП Смелов\laba1\DBLevel\obj\Debug\net8.0\DBLevel.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\laba1\DBLevel\obj\Debug\net8.0\DBLevel.dll
+D:\Универ\ПП Смелов\laba1\DBLevel\obj\Debug\net8.0\refint\DBLevel.dll
+D:\Универ\ПП Смелов\laba1\DBLevel\obj\Debug\net8.0\DBLevel.pdb
+D:\Универ\ПП Смелов\laba1\DBLevel\obj\Debug\net8.0\ref\DBLevel.dll

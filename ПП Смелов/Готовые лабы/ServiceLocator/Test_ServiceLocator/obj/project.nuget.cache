@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xVjXAnO6dHI=",
+  "success": true,
+  "projectFilePath": "D:\\Универ\\ПП Смелов\\Готовые лабы\\ServiceLocator\\Test_ServiceLocator\\Test_ServiceLocator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vasil\\.nuget\\packages\\nunit\\4.4.0\\nunit.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\TEST_DAL_12_JSON\\bin\\Debug\\net8.0\\WSRef.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEST_DAL_12_JSON\\bin\\Debug\\net8.0\\WSRef.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8682FFCE-36A9-457C-8EF8-DF3DA9F0E421}|DAL_12_JSON\\DAL_12_JSON.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\dal_12_json\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8682FFCE-36A9-457C-8EF8-DF3DA9F0E421}|DAL_12_JSON\\DAL_12_JSON.csproj|solutionrelative:dal_12_json\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FAD3B-CF7B-4ACA-A2FA-8D6DF6AD6A5C}|TEST_DAL_12_JSON\\TEST_DAL_12_JSON.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\test_dal_12_json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0FAD3B-CF7B-4ACA-A2FA-8D6DF6AD6A5C}|TEST_DAL_12_JSON\\TEST_DAL_12_JSON.csproj|solutionrelative:test_dal_12_json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8682FFCE-36A9-457C-8EF8-DF3DA9F0E421}|DAL_12_JSON\\DAL_12_JSON.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\dal_12_json\\dal_12_json.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8682FFCE-36A9-457C-8EF8-DF3DA9F0E421}|DAL_12_JSON\\DAL_12_JSON.csproj|solutionrelative:dal_12_json\\dal_12_json.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8682FFCE-36A9-457C-8EF8-DF3DA9F0E421}|DAL_12_JSON\\DAL_12_JSON.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\dal_12_json\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8682FFCE-36A9-457C-8EF8-DF3DA9F0E421}|DAL_12_JSON\\DAL_12_JSON.csproj|solutionrelative:dal_12_json\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8682FFCE-36A9-457C-8EF8-DF3DA9F0E421}|DAL_12_JSON\\DAL_12_JSON.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\dal_12_json\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8682FFCE-36A9-457C-8EF8-DF3DA9F0E421}|DAL_12_JSON\\DAL_12_JSON.csproj|solutionrelative:dal_12_json\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8682FFCE-36A9-457C-8EF8-DF3DA9F0E421}|DAL_12_JSON\\DAL_12_JSON.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\dal_12_json\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8682FFCE-36A9-457C-8EF8-DF3DA9F0E421}|DAL_12_JSON\\DAL_12_JSON.csproj|solutionrelative:dal_12_json\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8682FFCE-36A9-457C-8EF8-DF3DA9F0E421}|DAL_12_JSON\\DAL_12_JSON.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\dal_12_json\\wsref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8682FFCE-36A9-457C-8EF8-DF3DA9F0E421}|DAL_12_JSON\\DAL_12_JSON.csproj|solutionrelative:dal_12_json\\wsref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86BC183-BF77-464F-9217-31F069D75922}|Test_DBLevel\\Test_DBLevel.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\test_dblevel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86BC183-BF77-464F-9217-31F069D75922}|Test_DBLevel\\Test_DBLevel.csproj|solutionrelative:test_dblevel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95984BB-260A-4E2D-842A-C041F285977D}|DBLevel\\DBLevel.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\dblevel\\wsref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95984BB-260A-4E2D-842A-C041F285977D}|DBLevel\\DBLevel.csproj|solutionrelative:dblevel\\wsref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95984BB-260A-4E2D-842A-C041F285977D}|DBLevel\\DBLevel.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\dblevel\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95984BB-260A-4E2D-842A-C041F285977D}|DBLevel\\DBLevel.csproj|solutionrelative:dblevel\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95984BB-260A-4E2D-842A-C041F285977D}|DBLevel\\DBLevel.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\dblevel\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95984BB-260A-4E2D-842A-C041F285977D}|DBLevel\\DBLevel.csproj|solutionrelative:dblevel\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95984BB-260A-4E2D-842A-C041F285977D}|DBLevel\\DBLevel.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\dblevel\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95984BB-260A-4E2D-842A-C041F285977D}|DBLevel\\DBLevel.csproj|solutionrelative:dblevel\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95984BB-260A-4E2D-842A-C041F285977D}|DBLevel\\DBLevel.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\dblevel\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95984BB-260A-4E2D-842A-C041F285977D}|DBLevel\\DBLevel.csproj|solutionrelative:dblevel\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vasil\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95984BB-260A-4E2D-842A-C041F285977D}|DBLevel\\DBLevel.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\dblevel\\dblevel.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E95984BB-260A-4E2D-842A-C041F285977D}|DBLevel\\DBLevel.csproj|solutionrelative:dblevel\\dblevel.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86BC183-BF77-464F-9217-31F069D75922}|Test_DBLevel\\Test_DBLevel.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\laba1\\test_dblevel\\test_dblevel.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E86BC183-BF77-464F-9217-31F069D75922}|Test_DBLevel\\Test_DBLevel.csproj|solutionrelative:test_dblevel\\test_dblevel.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAL_12_JSON",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DAL_12_JSON\\DAL_12_JSON.csproj",
+              "RelativeDocumentMoniker": "DAL_12_JSON\\DAL_12_JSON.csproj",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DAL_12_JSON\\DAL_12_JSON.csproj",
+              "RelativeToolTip": "DAL_12_JSON\\DAL_12_JSON.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T12:52:51.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WSRef.json",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\TEST_DAL_12_JSON\\bin\\Debug\\net8.0\\WSRef.json",
+              "RelativeDocumentMoniker": "TEST_DAL_12_JSON\\bin\\Debug\\net8.0\\WSRef.json",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\TEST_DAL_12_JSON\\bin\\Debug\\net8.0\\WSRef.json",
+              "RelativeToolTip": "TEST_DAL_12_JSON\\bin\\Debug\\net8.0\\WSRef.json",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T12:45:45.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\TEST_DAL_12_JSON\\Program.cs",
+              "RelativeDocumentMoniker": "TEST_DAL_12_JSON\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\TEST_DAL_12_JSON\\Program.cs",
+              "RelativeToolTip": "TEST_DAL_12_JSON\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:39:11.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WSRef.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DAL_12_JSON\\WSRef.cs",
+              "RelativeDocumentMoniker": "DAL_12_JSON\\WSRef.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DAL_12_JSON\\WSRef.cs",
+              "RelativeToolTip": "DAL_12_JSON\\WSRef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:32:28.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DAL_12_JSON\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL_12_JSON\\IRepository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DAL_12_JSON\\IRepository.cs",
+              "RelativeToolTip": "DAL_12_JSON\\IRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:32:23.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Init.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DAL_12_JSON\\Init.cs",
+              "RelativeDocumentMoniker": "DAL_12_JSON\\Init.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DAL_12_JSON\\Init.cs",
+              "RelativeToolTip": "DAL_12_JSON\\Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:32:16.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DAL_12_JSON\\Context.cs",
+              "RelativeDocumentMoniker": "DAL_12_JSON\\Context.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DAL_12_JSON\\Context.cs",
+              "RelativeToolTip": "DAL_12_JSON\\Context.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:31:56.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DAL_12_JSON\\Comment.cs",
+              "RelativeDocumentMoniker": "DAL_12_JSON\\Comment.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DAL_12_JSON\\Comment.cs",
+              "RelativeToolTip": "DAL_12_JSON\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:31:43.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DBLevel\\Comments.cs",
+              "RelativeDocumentMoniker": "DBLevel\\Comments.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DBLevel\\Comments.cs",
+              "RelativeToolTip": "DBLevel\\Comments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:17:26.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Program.cs",
+              "ToolTip": "C:\\Users\\vasil\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:15:54.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DBLevel\\IRepository.cs",
+              "RelativeDocumentMoniker": "DBLevel\\IRepository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DBLevel\\IRepository.cs",
+              "RelativeToolTip": "DBLevel\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:06:08.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Test_DBLevel",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\Test_DBLevel\\Test_DBLevel.csproj",
+              "RelativeDocumentMoniker": "Test_DBLevel\\Test_DBLevel.csproj",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\Test_DBLevel\\Test_DBLevel.csproj",
+              "RelativeToolTip": "Test_DBLevel\\Test_DBLevel.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T12:06:29.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DBLevel",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DBLevel\\DBLevel.csproj",
+              "RelativeDocumentMoniker": "DBLevel\\DBLevel.csproj",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DBLevel\\DBLevel.csproj",
+              "RelativeToolTip": "DBLevel\\DBLevel.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T12:06:19.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WSRef.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DBLevel\\WSRef.cs",
+              "RelativeDocumentMoniker": "DBLevel\\WSRef.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DBLevel\\WSRef.cs",
+              "RelativeToolTip": "DBLevel\\WSRef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T21:01:45.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "init.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DBLevel\\init.cs",
+              "RelativeDocumentMoniker": "DBLevel\\init.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DBLevel\\init.cs",
+              "RelativeToolTip": "DBLevel\\init.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:45:44.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DBLevel\\Context.cs",
+              "RelativeDocumentMoniker": "DBLevel\\Context.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\DBLevel\\Context.cs",
+              "RelativeToolTip": "DBLevel\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:40:23.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\Test_DBLevel\\Program.cs",
+              "RelativeDocumentMoniker": "Test_DBLevel\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\laba1\\Test_DBLevel\\Program.cs",
+              "RelativeToolTip": "Test_DBLevel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:48:21.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

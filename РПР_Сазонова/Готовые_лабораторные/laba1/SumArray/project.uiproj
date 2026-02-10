@@ -1,0 +1,6 @@
+{
+  "Name": "SumArray",
+  "ProjectType": "Process",
+  "Description": "SumArray",
+  "MainFile": "Main.xaml"
+}

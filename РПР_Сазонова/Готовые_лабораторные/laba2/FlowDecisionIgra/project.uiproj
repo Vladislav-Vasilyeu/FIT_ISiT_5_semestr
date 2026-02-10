@@ -1,0 +1,6 @@
+{
+  "Name": "FlowDecisionIgra",
+  "ProjectType": "Process",
+  "Description": "FlowDecisionIgra",
+  "MainFile": "Main.xaml"
+}

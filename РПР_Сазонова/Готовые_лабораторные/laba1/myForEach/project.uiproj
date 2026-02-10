@@ -1,0 +1,6 @@
+{
+  "Name": "myForEach",
+  "ProjectType": "Process",
+  "Description": "myForEach",
+  "MainFile": "Main.xaml"
+}

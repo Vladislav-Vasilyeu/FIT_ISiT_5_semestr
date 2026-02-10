@@ -1,0 +1,6 @@
+{
+  "Name": "myDoWhile",
+  "ProjectType": "Process",
+  "Description": "myDoWhile",
+  "MainFile": "Main.xaml"
+}

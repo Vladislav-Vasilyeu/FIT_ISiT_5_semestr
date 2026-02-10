@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Заказ ттоваров</title>
+    <script>
+        function Clear() {
+            document.getElementById("input1").value = "";
+            document.getElementById("input2").value = "";
+        }
+    </script>
+</head>
+<body>
+    <form action="" name="f1">
+        <h1>Заказ товаров</h1>
+    <div>
+        Компания
+        <input type="text" id="input1" name="firma" size="30">
+        Заказала
+        <input type="text" id="input2" name="tovar" size="30">
+        <br><br>
+        <input type="button" name="b1" size="30" value="Click" onclick="Clear()">
+    </div>
+    </form>
+    
+</body>
+</html>

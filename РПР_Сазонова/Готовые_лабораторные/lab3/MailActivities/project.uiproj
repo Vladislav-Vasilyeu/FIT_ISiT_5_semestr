@@ -1,0 +1,6 @@
+{
+  "Name": "MailActivities",
+  "ProjectType": "Process",
+  "Description": "MailActivities",
+  "MainFile": "Main.xaml"
+}

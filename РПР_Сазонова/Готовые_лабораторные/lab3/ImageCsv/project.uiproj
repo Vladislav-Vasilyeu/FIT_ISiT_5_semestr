@@ -1,0 +1,6 @@
+{
+  "Name": "ImageCsv",
+  "ProjectType": "Process",
+  "Description": "ImageCsv",
+  "MainFile": "Main.xaml"
+}

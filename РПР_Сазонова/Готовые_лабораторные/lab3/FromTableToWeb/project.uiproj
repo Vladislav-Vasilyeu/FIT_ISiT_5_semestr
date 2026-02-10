@@ -1,0 +1,6 @@
+{
+  "Name": "FromTableToWeb",
+  "ProjectType": "Process",
+  "Description": "FromTableToWeb",
+  "MainFile": "Main.xaml"
+}

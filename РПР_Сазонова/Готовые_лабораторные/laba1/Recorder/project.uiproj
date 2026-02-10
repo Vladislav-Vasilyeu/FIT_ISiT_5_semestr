@@ -1,0 +1,6 @@
+{
+  "Name": "Recorder",
+  "ProjectType": "Process",
+  "Description": "Задание 2",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "ArticleEconomic",
+  "ProjectType": "Process",
+  "Description": "ArticleEconomic",
+  "MainFile": "Main.xaml"
+}

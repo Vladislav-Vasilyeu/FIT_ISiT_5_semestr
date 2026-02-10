@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="5.0" client="site" method="upgrade">
+    <name>Компактная форма обратной связи</name>
+    <author>Ты</author>
+    <version>1.0.1</version>
+    <description>Сворачиваемая форма с капчей 2+2=?</description>
+    <files>
+        <filename module="mod_contact_toggle">mod_contact_toggle.php</filename>
+        <filename>helper.php</filename>
+        <filename>tmpl/default.php</filename>
+    </files>
+    <config>
+        <fields name="params">
+            <fieldset name="basic">
+                <field name="button_color" type="color" default="#ff6b35" label="Цвет кнопки" />
+                <field name="success_message" type="text" default="Спасибо! Сообщение отправлено." label="Сообщение об успехе" />
+            </fieldset>
+        </fields>
+    </config>
+</extension>

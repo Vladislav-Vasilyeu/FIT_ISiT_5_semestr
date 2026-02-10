@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GameClub - Главная</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1 class="logo">GameClub</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html" class="active">Главная</a></li>
+                    <li><a href="services.html">Услуги</a></li>
+                    <li><a href="about.html">О нас</a></li>
+                    <li><a href="contacts.html">Контакты</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <section class="hero" style="background-image: url('assets/image1.png');">
+            <div class="container">
+                <h1>Погрузись в игру с GameClub!</h1>
+                <p>Мощные ПК, турниры и киберспортивная атмосфера в [Ваш город]!</p>
+                <form class="booking-form">
+                    <input type="text" placeholder="Ваше имя" required>
+                    <input type="datetime-local" required>
+                    <button type="submit" class="btn neon">Забронировать место</button>
+                </form>
+            </div>
+        </section>
+        <section class="promo">
+            <div class="container">
+                <h2>Горячая акция!</h2>
+                <div class="slider">
+                    <div class="slide active">
+                        <h3>Приведи друга</h3>
+                        <p>Скидка 20% на аренду для двоих! <span id="countdown"></span></p>
+                    </div>
+                    <div class="slide">
+                        <h3>Ночной тариф</h3>
+                        <p>Играй с 22:00 до 06:00 всего за 800 руб.!</p>
+                    </div>
+                    <button class="slider-btn prev">◄</button>
+                    <button class="slider-btn next">►</button>
+                </div>
+            </div>
+        </section>
+        <section class="advantages">
+            <div class="container">
+                <h2>Почему мы лучшие?</h2>
+                <div class="advantages-grid">
+                    <div class="advantage">
+                        <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e" alt="ПК">
+                        <h3>20+ мощных ПК</h3>
+                        <p>RTX 3080, мониторы 144 Гц для максимального FPS.</p>
+                    </div>
+                    <div class="advantage">
+                        <img src="https://images.unsplash.com/photo-1505238680356-667803448bb6" alt="Турниры">
+                        <h3>Еженедельные турниры</h3>
+                        <p>Сражайся в Dota 2, CS:GO, Valorant за призы!</p>
+                    </div>
+                    <div class="advantage">
+                        <img src="https://avatars.mds.yandex.net/i?id=2f640f392ce0cea467af0b731451dc178b12db83-12471733-images-thumbs&n=13" alt="Комфорт">
+                        <h3>Комфорт</h3>
+                        <p>Геймерские кресла, VIP-зона, RGB-атмосфера.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="reviews">
+            <div class="container">
+                <h2>Что говорят наши клиенты</h2>
+                <div class="reviews-grid">
+                    <div class="review">
+                        <p>“Лучший клуб в городе! Выиграл турнир по CS:GO!”</p>
+                        <p>- Алексей, геймер</p>
+                    </div>
+                    <div class="review">
+                        <p>“Уютно, мощные ПК, отличный кофе!”</p>
+                        <p>- Мария, посетитель</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="container">
+            <p>GameClub © 2025 | <a href="contacts.html">Свяжитесь с нами</a> | <a href="#">VK</a> | <a href="#">Telegram</a> | <a href="#">Discord</a></p>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

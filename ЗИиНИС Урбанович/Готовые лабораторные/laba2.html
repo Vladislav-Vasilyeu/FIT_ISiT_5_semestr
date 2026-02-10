@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Лабораторная работа №2: Элементы теории информации</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
+        textarea { width: 100%; height: 150px; font-family: monospace; }
+        button { margin: 5px; padding: 10px 15px; font-size: 14px; }
+        canvas { max-width: 700px; margin: 20px 0; }
+        #results { margin-top: 20px; }
+        table { border-collapse: collapse; width: 100%; margin: 15px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        .section { margin-bottom: 30px; padding: 15px; border: 1px solid #eee; border-radius: 8px; }
+        .note { font-size: 0.9em; color: #555; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Расчёт параметров дискретных информационных систем</h1>
+    
+    <div class="section">
+        <h2>а) Энтропия алфавита</h2>
+        <label>Введите текст (или используйте примеры):</label><br>
+        <textarea id="textInput">Введите текст здесь...</textarea><br>
+        <button onclick="loadFrench()">Пример: Французский</button>
+        <button onclick="loadBulgarian()">Пример: Болгарский</button>
+        <button onclick="calculateAlphabet()">Рассчитать</button>
+        
+        <canvas id="histAlphabet"></canvas>
+        <div id="entropyAlphabet"></div>
+    </div>
+
+    <div class="section">
+        <h2>б) Энтропия бинарного представления текста</h2>
+        <button onclick="calculateBinary()">Рассчитать (на основе введённого текста)</button>
+        <div id="entropyBinary"></div>
+    </div>
+
+    <div class="section">
+        <h2>в) Количество информации в сообщении</h2>
+        <p>Сообщение: <strong>"Васильев Владислав Васильевич"</strong> (кириллица, 29 символов)</p>
+        <p>Транслит: <strong>"Vasiliev Vladislav Vasilievich"</strong> (латиница, 30 символов)</p>
+        <button onclick="calculateMessage()">Рассчитать</button>
+        <div id="infoAmount"></div>
+    </div>
+
+    <div class="section">
+        <h2>г) С учётом ошибок передачи (BSC, p)</h2>
+        <label>Вероятность ошибки бита p = <input type="number" id="errorP" value="0.1" step="0.05" min="0" max="1"></label>
+        <button onclick="calculateWithError()">Рассчитать (для транслита)</button>
+        <div id="infoWithError"></div>
+    </div>
+
+    <script>
+        let currentText = '';
+        let alphabetFreq = {};
+        let hAlphabet = 0;
+        let hBinary = 0;
+        let binaryTotalBits = 0;
+        let binaryFreq = { '0': 0, '1': 0 };
+        let histChart = null;
+
+        // log2
+        function log2(x) {
+            return Math.log(x) / Math.log(2);
+        }
+
+        // Энтропия по частотам
+        function calculateEntropy(freq, total) {
+            let h = 0;
+            for (let count of Object.values(freq)) {
+                if (count > 0) {
+                    let p = count / total;
+                    h -= p * log2(p);
+                }
+            }
+            return h;
+        }
+
+        // === а) Энтропия алфавита ===
+        function calculateAlphabet() {
+            currentText = document.getElementById('textInput').value.trim();
+            if (!currentText) {
+                alert("Введите текст!");
+                return;
+            }
+
+            const textLower = currentText.toLowerCase();
+            const freq = {};
+            let validChars = 0;
+
+            for (let char of textLower) {
+                if (char.trim() !== '') {
+                    freq[char] = (freq[char] || 0) + 1;
+                    validChars++;
+                }
+            }
+
+            alphabetFreq = freq;
+            hAlphabet = calculateEntropy(freq, validChars);
+
+            // Гистограмма
+            const labels = Object.keys(freq).sort();
+            const data = labels.map(l => freq[l]);
+            drawHistogram('histAlphabet', labels, data, 'Частоты символов в тексте');
+
+            // Таблица вероятностей
+            const sorted = Object.entries(freq).sort((a, b) => b[1] - a[1]);
+            let table = '<table><tr><th>Символ</th><th>Частота</th><th>Вероятность</th></tr>';
+            sorted.forEach(([char, count]) => {
+                const p = (count / validChars).toFixed(4);
+                table += `<tr><td>${char === ' ' ? 'пробел' : char}</td><td>${count}</td><td>${p}</td></tr>`;
+            });
+            table += '</table>';
+
+            document.getElementById('entropyAlphabet').innerHTML = `
+                <p><strong>Энтропия алфавита: ${hAlphabet.toFixed(4)} бит/символ</strong></p>
+                <p>Всего символов: ${validChars}, уникальных: ${labels.length}</p>
+                <p>Максимальная энтропия: ${log2(labels.length).toFixed(4)} бит/символ (при равномерном распределении)</p>
+                <div class="note">Избыточность: ${(1 - hAlphabet / log2(labels.length + 1e-10)).toFixed(4) * 100}%</div>
+                <h4>Вероятности (по убыванию):</h4>
+                ${table}
+            `;
+        }
+
+        // === б) Бинарная энтропия ===
+        function calculateBinary() {
+            if (!currentText) {
+                alert("Сначала введите текст и рассчитайте алфавит (а)!");
+                return;
+            }
+
+            let binary = '';
+            for (let char of currentText) {
+                binary += char.charCodeAt(0).toString(2).padStart(8, '0');
+            }
+
+            const freq = { '0': 0, '1': 0 };
+            for (let bit of binary) {
+                freq[bit]++;
+            }
+
+            binaryFreq = freq;
+            binaryTotalBits = binary.length;
+            hBinary = calculateEntropy(freq, binaryTotalBits);
+
+            const p1 = (freq['1'] / binaryTotalBits).toFixed(4);
+            const p0 = (freq['0'] / binaryTotalBits).toFixed(4);
+
+            document.getElementById('entropyBinary').innerHTML = `
+                <p><strong>Энтропия бинарного потока: ${hBinary.toFixed(4)} бит/бит</strong></p>
+                <p>Всего битов: ${binaryTotalBits}</p>
+                <p>Доля '1': ${p1}, '0': ${p0}</p>
+                <p>Максимум: 1 бит/бит (при p=0.5)</p>
+                <div class="note">H < 1 → биты не полностью случайны (корреляция в тексте)</div>
+            `;
+        }
+
+        // === в) Количество информации ===
+        function calculateMessage() {
+            const msgCyr = 'Васильев Владислав Васильевич';
+            const msgLat = 'Vasiliev Vladislav Vasilievich';
+            const lenCyr = msgCyr.length;
+            const lenLat = msgLat.length;
+
+            // Кириллица: локальная энтропия
+            const freqCyr = {};
+            for (let c of msgCyr.toLowerCase()) {
+                if (c.trim()) freqCyr[c] = (freqCyr[c] || 0) + 1;
+            }
+            const hCyr = calculateEntropy(freqCyr, lenCyr);
+            const infoCyr = lenCyr * hCyr;
+
+            // ASCII: бинарное представление
+            let binary = '';
+            for (let c of msgLat) {
+                binary += c.charCodeAt(0).toString(2).padStart(8, '0');
+            }
+            const totalBits = binary.length;
+            const freqBin = { '0': 0, '1': 0 };
+            for (let b of binary) freqBin[b]++;
+            const hBin = calculateEntropy(freqBin, totalBits);
+            const infoBin = totalBits * hBin;
+
+            document.getElementById('infoAmount').innerHTML = `
+                <table>
+                    <tr><th>Кодировка</th><th>Длина</th><th>H, бит/симв.</th><th>Информация, бит</th></tr>
+                    <tr><td>Кириллица (исходная)</td><td>${lenCyr}</td><td>${hCyr.toFixed(4)}</td><td><strong>${infoCyr.toFixed(2)}</strong></td></tr>
+                    <tr><td>ASCII (8 бит/симв.)</td><td>${totalBits}</td><td>${hBin.toFixed(4)}</td><td><strong>${infoBin.toFixed(2)}</strong></td></tr>
+                </table>
+                <div class="note">
+                    <p>• В кириллице: высокая избыточность (H ≈ 3.8 < log₂(33) ≈ 5.0).</p>
+                    <p>• В ASCII: почти максимум (H ≈ 0.99 < 1), но используется 8 бит/симв. → неэффективно.</p>
+                    <p>• Реальная информация: ~110 бит, но ASCII тратит 240 бит → избыточность ~54%.</p>
+                </div>
+            `;
+        }
+
+        // === г) С ошибками (BSC) ===
+        function calculateWithError() {
+            const p = parseFloat(document.getElementById('errorP').value);
+            if (isNaN(p) || p < 0 || p > 1) {
+                alert("p должно быть от 0 до 1");
+                return;
+            }
+
+            const msgLat = 'Vasiliev Vladislav Vasilievich';
+            let binary = '';
+            for (let c of msgLat) {
+                binary += c.charCodeAt(0).toString(2).padStart(8, '0');
+            }
+            const totalBits = binary.length;
+            const freqX = { '0': 0, '1': 0 };
+            for (let b of binary) freqX[b]++;
+            const q = freqX['1'] / totalBits;  // P(X=1)
+
+            // Энтропия источника H(X)
+            const hX = calculateEntropy(freqX, totalBits);
+
+            // Энтропия шума H(Y|X) = h(p)
+            let hp = 0;
+            if (p > 0 && p < 1) {
+                hp = -p * log2(p) - (1 - p) * log2(1 - p);
+            }
+
+            // Энтропия на выходе H(Y)
+            const py1 = q * (1 - p) + (1 - q) * p;
+            let hY = 0;
+            if (py1 > 0 && py1 < 1) {
+                hY = -py1 * log2(py1) - (1 - py1) * log2(1 - py1);
+            } else {
+                hY = 0;
+            }
+
+            // Взаимная информация I(X;Y) = H(Y) - H(Y|X)
+            const mutualInfo = Math.max(0, hY - hp);  // защита от численных ошибок
+
+            // Количество информации
+            const infoTransmitted = totalBits * mutualInfo;
+
+            const capacity = 1 - hp;  // Пропускная способность BSC при равномерном входе
+
+            let note = '';
+            if (p === 0.5) {
+                note = '<p style="color: red;"><strong>Канал полностью шумный: I(X;Y) = 0 → ничего не передаётся.</strong></p>';
+            } else if (p === 0 || p === 1) {
+                note = '<p><strong>Канал идеальный или инвертирующий: I(X;Y) = H(X) → вся информация сохраняется.</strong></p>';
+            }
+
+            document.getElementById('infoWithError').innerHTML = `
+                <h4>Бинарный симметричный канал (BSC), p = ${p}</h4>
+                <table>
+                    <tr><td>H(X)</td><td>${hX.toFixed(4)} бит/бит</td></tr>
+                    <tr><td>h(p) = H(Y|X)</td><td>${hp.toFixed(4)} бит/бит</td></tr>
+                    <tr><td>H(Y)</td><td>${hY.toFixed(4)} бит/бит</td></tr>
+                    <tr><td><strong>I(X;Y)</strong></td><td><strong>${mutualInfo.toFixed(4)} бит/бит</strong></td></tr>
+                    <tr><td>Информация</td><td><strong>${infoTransmitted.toFixed(2)} бит</strong> из ${totalBits}</td></tr>
+                    <tr><td>Пропускная способность C</td><td>${capacity.toFixed(4)} бит/бит</td></tr>
+                </table>
+                ${note}
+                <div class="note">
+                    <p>• I(X;Y) ≥ 0 всегда. При p=0.5 → I=0.</p>
+                    <p>• Пропускная способность достигается при равномерном входе (P(X=1)=0.5).</p>
+                </div>
+            `;
+        }
+
+        // Гистограмма
+        function drawHistogram(canvasId, labels, data, title) {
+            const ctx = document.getElementById(canvasId).getContext('2d');
+            if (histChart) histChart.destroy();
+
+            histChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Частота',
+                        data: data,
+                        backgroundColor: 'rgba(54, 162, 235, 0.6)',
+                        borderColor: 'rgba(54, 162, 235, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    scales: { y: { beginAtZero: true } },
+                    plugins: {
+                        title: { display: true, text: title, font: { size: 16 } },
+                        legend: { display: false }
+                    }
+                }
+            });
+        }
+
+        // Примеры
+        function loadFrench() {
+            currentText = "Je n'ai qu'un jour pour visiter Paris. Je suis l'itinéraire donné par Pierre, un ami français. Je commence par un petit-déjeuner dans un café près de l'Arc de Triomphe avec des croissants délicieux. Après une marche sur les Champs-Élysées, je suis au pied de la Tour Eiffel.";
+            document.getElementById('textInput').value = currentText;
+        }
+
+        function loadBulgarian() {
+            currentText = "Член 26 1. Всеки човек има право на образование. Образованието трябва да бъде безплатно, поне що се отнася до началното и основното образование. Началното образование трябва да бъде задължително. Техническото и професионално образование трябва да бъдат общодостъпни, а висшето образование трябва да бъде еднакво достъпно за всички на основата на техните способности.";
+            document.getElementById('textInput').value = currentText;
+        }
+    </script>
+</body>
+</html>

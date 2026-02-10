@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Лабораторная работа №3: Base64 и XOR</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        textarea {
+            width: 100%;
+            height: 150px;
+        }
+
+        button {
+            margin: 5px;
+            padding: 10px;
+        }
+
+        canvas {
+            max-width: 600px;
+            height: 300px;
+            margin: 20px 0;
+            border: 1px solid #ccc;
+            display: block;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 10px 0;
+        }
+
+        th,
+        td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .details {
+            margin-left: 20px;
+            font-size: 0.9em;
+        }
+
+        .binary-column {
+            font-family: monospace;
+            white-space: pre;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Лабораторная работа №3: Base64-кодирование и XOR</h1>
+
+    <h2>1. Base64-кодирование документа</h2>
+    <label>Введите текст на латинице (документ а):</label><br>
+    <textarea
+        id="originalText">Je n'ai qu'un jour pour visiter Paris. Je suis l'itinéraire donné par Pierre, un ami français. Je commence par un petit-déjeuner dans un café près de l'Arc de Triomphe avec des croissants délicieux. Après une marche sur les Champs-Élysées, je suis au pied de la Tour Eiffel.</textarea><br>
+    <button onclick="encodeBase64()">Конвертировать в Base64 (документ б)</button>
+    <div id="base64Output"></div>
+
+    <h2>2. Анализ алфавитов (а и б)</h2>
+    <button onclick="analyzeAlphabets()">Рассчитать частоты, энтропии и избыточность</button>
+    <div id="analysisResults"></div>
+
+    <h2>3. XOR-операция</h2>
+    <label>Фамилия (a): <input type="text" id="surname" value="Vasiliev"></label><br>
+    <label>Имя (b): <input type="text" id="name" value="Vladislav"></label><br>
+    <button onclick="performXOR('ascii')">XOR в ASCII</button>
+    <button onclick="performXOR('base64')">XOR в Base64</button>
+    <div id="xorResults"></div>
+
+    <script>
+        let originalText = '';
+        let base64Text = '';
+
+        if (typeof Chart === 'undefined') {
+            console.error('Chart.js не загружен! Проверь подключение к интернету или CDN.');
+        } else {
+            console.log('Chart.js загружен успешно.');
+        }
+
+        function log2(x) {
+            return Math.log(x) / Math.log(2);
+        }
+
+        function getFreqAndEntropy(text) {
+            let freq = {};
+            for (let char of text.toLowerCase()) {
+                freq[char] = (freq[char] || 0) + 1;
+            }
+            let total = Object.values(freq).reduce((a, b) => a + b, 0);
+            let hShannon = 0;
+            for (let count of Object.values(freq)) {
+                let p = count / total;
+                if (p > 0) hShannon -= p * log2(p);
+            }
+            let n = Object.keys(freq).length;
+            console.log(n)
+            let hHartley = log2(n);
+            let redundancy =  ((hHartley - hShannon) / hHartley * 100);
+            console.log(redundancy )
+            return { freq, total, hShannon, hHartley, redundancy };
+        }
+
+        function drawHistogram(canvasId, labels, data, title) {
+            let canvas = document.getElementById(canvasId);
+            if (!canvas) {
+                console.error(`Canvas с id ${canvasId} не найден в DOM`);
+                return;
+            }
+            let ctx = canvas.getContext('2d');
+            if (!ctx) {
+                console.error(`Не удалось получить контекст для ${canvasId}`);
+                return;
+            }
+            if (labels.length !== data.length) {
+                console.error(`Несоответствие длин: labels (${labels.length}) ≠ data (${data.length})`);
+                return;
+            }
+            const validData = data.filter(v => v > 0);
+            if (validData.length === 0) {
+                console.warn(`Данные для ${canvasId} пустые или содержат только нули:`, data);
+                return;
+            }
+            console.log(`Отрисовка гистограммы для ${canvasId}: labels=${JSON.stringify(labels)}, data=${JSON.stringify(data)}`);
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{ label: 'Частота', data: validData, backgroundColor: 'rgba(75, 192, 192, 0.2)', borderColor: 'rgba(75, 192, 192, 1)', borderWidth: 1 }]
+                },
+                options: {
+                    scales: { y: { beginAtZero: true } },
+                    plugins: { title: { display: true, text: title } },
+                    responsive: true,
+                    maintainAspectRatio: false
+                }
+            });
+        }
+
+        function encodeBase64() {
+            originalText = document.getElementById('originalText').value;
+            base64Text = btoa(originalText);
+            document.getElementById('base64Output').innerHTML = `<p>Документ (б) в Base64: <strong>${base64Text}</strong></p>`;
+        }
+
+        function analyzeAlphabets() {
+            if (!originalText || !base64Text) {
+                alert('Сначала конвертируйте в Base64!');
+                return;
+            }
+
+            let resultsDiv = document.getElementById('analysisResults');
+            resultsDiv.innerHTML = '';
+
+            let resA = getFreqAndEntropy(originalText);
+            let sortedA = Object.entries(resA.freq).sort((a, b) => b[1] - a[1]);
+            let probsHtmlA = '<table><tr><th>Символ</th><th>Частота</th><th>Вероятность</th></tr>';
+            sortedA.forEach(([char, count]) => {
+                let p = (count / resA.total).toFixed(4);
+                probsHtmlA += `<tr><td>${char}</td><td>${count}</td><td>${p}</td></tr>`;
+            });
+            probsHtmlA += '</table>';
+
+            let canvasA = document.createElement('canvas');
+            canvasA.id = 'histA';
+            resultsDiv.appendChild(canvasA);
+            drawHistogram('histA', sortedA.map(([c]) => c), sortedA.map(([, v]) => v), 'Частоты алфавита (а)');
+
+            let resB = getFreqAndEntropy(base64Text);
+            let sortedB = Object.entries(resB.freq).sort((a, b) => b[1] - a[1]);
+            let probsHtmlB = '<table><tr><th>Символ</th><th>Частота</th><th>Вероятность</th></tr>';
+            sortedB.forEach(([char, count]) => {
+                let p = (count / resB.total).toFixed(4);
+                probsHtmlB += `<tr><td>${char}</td><td>${count}</td><td>${p}</td></tr>`;
+            });
+            probsHtmlB += '</table>';
+
+            let canvasB = document.createElement('canvas');
+            canvasB.id = 'histB';
+            resultsDiv.appendChild(canvasB);
+            drawHistogram('histB', sortedB.map(([c]) => c), sortedB.map(([, v]) => v), 'Частоты алфавита (б)');
+
+            resultsDiv.innerHTML += `
+    <h3>Алфавит (а):</h3>
+    ${probsHtmlA}
+    <p>Энтропия Шеннона: ${resA.hShannon.toFixed(4)} бит/символ</p>
+    <p>Энтропия Хартли: ${resA.hHartley.toFixed(4)} бит/символ</p>
+    <p>Избыточность: ${(resA.redundancy).toFixed(2)}%</p>
+
+    <h3>Алфавит (б):</h3>
+    ${probsHtmlB}
+    <p>Энтропия Шеннона: ${resB.hShannon.toFixed(4)} бит/символ</p>
+    <p>Энтропия Хартли: ${resB.hHartley.toFixed(4)} бит/символ</p>
+    <p>Избыточность: ${(resB.redundancy).toFixed(2)}%</p>
+
+    <p><strong>Объяснение:</strong> Base64 использует алфавит из 64 символов (A-Z, a-z, 0-9, +/), что даёт \( H_{\text{Hartley}} = 6 \) бит. Однако избыточность в (б) может быть ниже, если \( H_{\text{Shannon}} \) возрастает из-за более случайного распределения символов после кодирования. В (а) языковая структура снижает \( H_{\text{Shannon}} \), увеличивая избыточность. Теоретически Base64 добавляет ~33% избыточности из-за паддинга, но это зависит от длины и характера текста.</p>
+`;
+        }
+
+        function manualXOR(bufA, bufB) {
+            let result = new Uint8Array(bufA.length);
+            for (let i = 0; i < bufA.length; i++) {
+                result[i] = bufA[i] ^ bufB[i];
+            }
+            return result;
+        }
+
+        function standardXOR(bufA, bufB) {
+            return manualXOR(bufA, bufB);
+        }
+
+        function stringToBuffer(str, encoding = 'utf8') {
+            return new TextEncoder().encode(str);
+        }
+
+        function base64ToBuffer(base64) {
+            return Uint8Array.from(atob(base64), c => c.charCodeAt(0));
+        }
+
+        function bufferToHex(buf) {
+            return Array.from(buf).map(b => b.toString(16).padStart(2, '0')).join(' ');
+        }
+
+        function bufferToBinary(buf) {
+            return Array.from(buf).map(b => b.toString(2).padStart(8, '0')).join(' ');
+        }
+
+        function byteToBinary(byte) {
+            return byte.toString(2).padStart(8, '0');
+        }
+
+        function performXOR(mode) {
+            let a = document.getElementById('surname').value;
+            let b = document.getElementById('name').value;
+
+            let bufA, bufB;
+            let html = ''; // Объявляем html здесь
+            if (mode === 'base64') {
+                let base64A = btoa(a);
+                let base64B = btoa(b);
+                html += `<p>Шаг 1: Кодирование в Base64:</p>`;
+                html += `<p>a (Фамилия): ${a} → Base64: ${base64A}</p>`;
+                html += `<p>b (Имя): ${b} → Base64: ${base64B}</p>`;
+                bufA = base64ToBuffer(base64A);
+                bufB = base64ToBuffer(base64B);
+                html += `<p>Шаг 2: Преобразование Base64 в буферы (Hex):</p>`;
+                html += `<p>a (буфер): ${bufferToHex(bufA)}, Длина: ${bufA.length} байт</p>`;
+                html += `<p>b (буфер): ${bufferToHex(bufB)}, Длина: ${bufB.length} байт</p>`;
+            } else { // ascii
+                bufA = stringToBuffer(a);
+                bufB = stringToBuffer(b);
+                html += `<p>Шаг 1: Преобразование ASCII в буферы (Hex):</p>`;
+                html += `<p>a (Фамилия): ${a} → ${bufferToHex(bufA)}, Длина: ${bufA.length} байт</p>`;
+                html += `<p>b (Имя): ${b} → ${bufferToHex(bufB)}, Длина: ${bufB.length} байт</p>`;
+            }
+
+            // Дополняем меньший буфер нулями
+            let maxLen = Math.max(bufA.length, bufB.length);
+            let paddedA = new Uint8Array(maxLen).fill(0);
+            let paddedB = new Uint8Array(maxLen).fill(0);
+            paddedA.set(bufA);
+            paddedB.set(bufB);
+            html += `<p>Шаг 3: Дополнение нулями (если нужно):</p>`;
+            html += `<p>a (перед XOR): ${bufferToHex(paddedA)}</p>`;
+            html += `<p>b (перед XOR): ${bufferToHex(paddedB)}</p>`;
+
+            // Добавляем вертикальное представление в столбик для a ^ b
+            html += `<h4>Вертикальное представление XOR (в двоичном виде):</h4>`;
+            html += `<div class="binary-column">`;
+            html += `Фамилия (a): ${bufferToBinary(paddedA)}<br>`;
+            html += `Имя (b):     ${bufferToBinary(paddedB)}<br>`;
+            let xorABManual = manualXOR(paddedA, paddedB);
+            html += `XOR:         ${bufferToBinary(xorABManual)}<br>`;
+            html += `</div>`;
+
+            // Подробный вывод XOR a ^ b
+            html += `<h4>Шаг 4: a ^ b (вручную):</h4>`;
+            html += `<table><tr><th>Позиция</th><th>a (Hex)</th><th>b (Hex)</th><th>a ^ b (Hex)</th><th>a (Bin)</th><th>b (Bin)</th><th>a ^ b (Bin)</th></tr>`;
+            for (let i = 0; i < maxLen; i++) {
+                let aBin = byteToBinary(paddedA[i]);
+                let bBin = byteToBinary(paddedB[i]);
+                let xorBin = byteToBinary(xorABManual[i]);
+                html += `<tr><td>${i}</td><td>${paddedA[i].toString(16).padStart(2, '0')}</td><td>${paddedB[i].toString(16).padStart(2, '0')}</td><td>${xorABManual[i].toString(16).padStart(2, '0')}</td><td>${aBin}</td><td>${bBin}</td><td>${xorBin}</td></tr>`;
+            }
+            html += `</table>`;
+
+            // Проверка стандартного XOR
+            let xorABStandard = standardXOR(paddedA, paddedB);
+            html += `<p>a ^ b (стандарт): ${bufferToHex(xorABStandard)} (совпадает с ручным)</p>`;
+
+            // Добавляем вертикальное представление в столбик для a ^ b ^ b
+            html += `<h4>Вертикальное представление a ^ b ^ b (в двоичном виде):</h4>`;
+            html += `<div class="binary-column">`;
+            html += `(a ^ b):     ${bufferToBinary(xorABManual)}<br>`;
+            html += `b:           ${bufferToBinary(paddedB)}<br>`;
+            let xorAB_BManual = manualXOR(xorABManual, paddedB);
+            html += `XOR:         ${bufferToBinary(xorAB_BManual)}<br>`;
+            html += `</div>`;
+
+            // Подробный вывод a ^ b ^ b = a
+            html += `<h4>Шаг 5: a ^ b ^ b (вручную):</h4>`;
+            html += `<table><tr><th>Позиция</th><th>(a ^ b) (Hex)</th><th>b (Hex)</th><th>(a ^ b ^ b) (Hex)</th><th>(a ^ b) (Bin)</th><th>b (Bin)</th><th>(a ^ b ^ b) (Bin)</th></tr>`;
+            for (let i = 0; i < maxLen; i++) {
+                let abBin = byteToBinary(xorABManual[i]);
+                let bBin = byteToBinary(paddedB[i]);
+                let ab_bBin = byteToBinary(xorAB_BManual[i]);
+                html += `<tr><td>${i}</td><td>${xorABManual[i].toString(16).padStart(2, '0')}</td><td>${paddedB[i].toString(16).padStart(2, '0')}</td><td>${xorAB_BManual[i].toString(16).padStart(2, '0')}</td><td>${abBin}</td><td>${bBin}</td><td>${ab_bBin}</td></tr>`;
+            }
+            html += `</table>`;
+
+            // Проверка стандартного a ^ b ^ b
+            let xorAB_BStandard = standardXOR(xorABStandard, paddedB);
+            html += `<p>a ^ b ^ b (стандарт): ${bufferToHex(xorAB_BStandard)}</p>`;
+            html += `<p>Проверка: (a ^ b ^ b) должно быть равно a: ${bufferToHex(paddedA)}</p>`;
+            html += `<p><strong>Объяснение:</strong> a XOR b XOR b = a, так как XOR ассоциативен и b XOR b = 0, а a XOR 0 = a. Это свойство используется в шифровании (например, код Вернама).</p>`;
+
+            document.getElementById('xorResults').innerHTML = html;
+        }
+    </script>
+</body>
+
+</html>

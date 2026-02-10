@@ -1,0 +1,7 @@
+D:\Универ\СТСР Смелов\Готовые лабораторные\ASPA\ASPA001\obj\Release\net8.0\PubTmp\Out\ASPA001.exe
+D:\Универ\СТСР Смелов\Готовые лабораторные\ASPA\ASPA001\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Универ\СТСР Смелов\Готовые лабораторные\ASPA\ASPA001\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Универ\СТСР Смелов\Готовые лабораторные\ASPA\ASPA001\obj\Release\net8.0\PubTmp\Out\ASPA001.dll
+D:\Универ\СТСР Смелов\Готовые лабораторные\ASPA\ASPA001\obj\Release\net8.0\PubTmp\Out\ASPA001.deps.json
+D:\Универ\СТСР Смелов\Готовые лабораторные\ASPA\ASPA001\obj\Release\net8.0\PubTmp\Out\ASPA001.runtimeconfig.json
+D:\Универ\СТСР Смелов\Готовые лабораторные\ASPA\ASPA001\obj\Release\net8.0\PubTmp\Out\ASPA001.pdb

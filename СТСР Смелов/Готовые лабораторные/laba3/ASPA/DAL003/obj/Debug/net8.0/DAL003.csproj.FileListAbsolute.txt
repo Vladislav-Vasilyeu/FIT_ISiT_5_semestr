@@ -1,0 +1,11 @@
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba3\ASPA\DAL003\bin\Debug\net8.0\DAL003.deps.json
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba3\ASPA\DAL003\bin\Debug\net8.0\DAL003.dll
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba3\ASPA\DAL003\bin\Debug\net8.0\DAL003.pdb
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba3\ASPA\DAL003\obj\Debug\net8.0\DAL003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba3\ASPA\DAL003\obj\Debug\net8.0\DAL003.AssemblyInfoInputs.cache
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba3\ASPA\DAL003\obj\Debug\net8.0\DAL003.AssemblyInfo.cs
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba3\ASPA\DAL003\obj\Debug\net8.0\DAL003.csproj.CoreCompileInputs.cache
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba3\ASPA\DAL003\obj\Debug\net8.0\DAL003.dll
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba3\ASPA\DAL003\obj\Debug\net8.0\refint\DAL003.dll
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba3\ASPA\DAL003\obj\Debug\net8.0\DAL003.pdb
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba3\ASPA\DAL003\obj\Debug\net8.0\ref\DAL003.dll

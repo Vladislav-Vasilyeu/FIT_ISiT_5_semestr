@@ -1,0 +1,8 @@
+﻿{
+  "Celebrities": {
+    "PhotosFolderRequestPath": "/Photos",
+    "PhotosFolder": "D:\\Универ\\СТСР Смелов\\Готовые лабораторные\\laba8\\ASPA\\ASPA008_1\\Photos",
+    "ConnectionString": "Server=VladPC;Database=Life Events of  Celebrities;Trusted_Connection=True;TrustServerCertificate=True;",
+    "ISO3166alpha2Path": "D:\\Универ\\СТСР Смелов\\Готовые лабораторные\\laba8\\ASPA\\ASPA008_1\\CountryCodes\\iso3166-1-alpha2-country-codes.json"
+  }
+}

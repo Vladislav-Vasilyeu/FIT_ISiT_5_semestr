@@ -1,0 +1,13 @@
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba6\DAL_Celebrity\bin\Debug\net8.0\DAL_Celebrity.deps.json
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba6\DAL_Celebrity\bin\Debug\net8.0\DAL_Celebrity.dll
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba6\DAL_Celebrity\bin\Debug\net8.0\DAL_Celebrity.pdb
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba6\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba6\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.AssemblyInfoInputs.cache
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba6\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.AssemblyInfo.cs
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba6\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.csproj.CoreCompileInputs.cache
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba6\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.dll
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba6\DAL_Celebrity\obj\Debug\net8.0\refint\DAL_Celebrity.dll
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba6\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.pdb
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba6\DAL_Celebrity\obj\Debug\net8.0\ref\DAL_Celebrity.dll
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba6\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.csproj.AssemblyReference.cache
+D:\Универ\СТСР Смелов\Готовые лабораторные\laba6\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.sourcelink.json

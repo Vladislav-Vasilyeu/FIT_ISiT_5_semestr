@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Test_ASPA005_3/1.0.0": {
+        "dependencies": {
+          "ASPA005_3": "1.0.0"
+        },
+        "runtime": {
+          "Test_ASPA005_3.dll": {}
+        }
+      },
+      "ASPA005_3/1.0.0": {
+        "runtime": {
+          "ASPA005_3.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test_ASPA005_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ASPA005_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

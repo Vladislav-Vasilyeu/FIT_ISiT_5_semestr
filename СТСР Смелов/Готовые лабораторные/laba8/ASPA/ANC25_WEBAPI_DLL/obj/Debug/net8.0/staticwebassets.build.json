@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "y2yIDqWXtLsWwtDPavZwtcKRsL3Zg7JJaB5iK0oHqF8=",
+  "Source": "ANC25_WEBAPI_DLL",
+  "BasePath": "_content/ANC25_WEBAPI_DLL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

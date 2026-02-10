@@ -1,0 +1,16 @@
+wwwroot\index.html
+wwwroot\photo\Babbage.jpg
+wwwroot\photo\Berners-Lee.jpg
+wwwroot\photo\Chomsky.jpg
+wwwroot\photo\Codd.jpg
+wwwroot\photo\Dijkstra.jpg
+wwwroot\photo\Einstein.jpg
+wwwroot\photo\Ershov.jpg
+wwwroot\photo\Huntington.jpg
+wwwroot\photo\Knuth.jpg
+wwwroot\photo\Lovelace.jpg
+wwwroot\photo\Neumann.jpg
+wwwroot\photo\Tanenbaum.jpg
+wwwroot\photo\Torvalds.jpg
+wwwroot\script.js
+wwwroot\style.css

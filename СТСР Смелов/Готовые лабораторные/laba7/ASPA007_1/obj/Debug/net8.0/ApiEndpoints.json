@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "ASPA007_1.API.CelebritiesEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCelebrities\u003Eb__0_0",
+    "RelativePath": "api/Celebrities",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPA007_1.API.LifeeventsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapLifeevents\u003Eb__0_0",
+    "RelativePath": "api/Lifeevents",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPA007_1.API.PhotoCelebrities\u002B\u003C\u003Ec",
+    "Method": "\u003CMapPhotoCelebrities\u003Eb__0_0",
+    "RelativePath": "api/PhotoCelebrities",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

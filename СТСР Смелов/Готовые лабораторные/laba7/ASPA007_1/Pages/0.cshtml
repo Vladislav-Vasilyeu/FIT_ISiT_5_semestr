@@ -1,0 +1,46 @@
+﻿@page
+@model ASPA007_1.Pages._0Model
+@{
+    ViewData["Title"] = "Form";
+}
+
+<div>
+    <h2>New Celebrity</h2>
+    @if (!Model.isCorrect)
+    {
+        <form id="form1" method="post" class="formstyle" enctype="multipart/form-data">
+            <img class="celebrityimage" src="~/photo/iconka.png" />
+            <div class="inputs">
+                <div>
+                    <input type="text" name="name" class="inputname" placeholder="Celebrities Name" />
+                    <input type="text" name="nation" class="inputnat" placeholder="Nationality" />
+                </div>
+                <input type="file" name="photo" class="inputfile" placeholder="Upload Photo" />
+                <div>
+                    <input id="form1submit" type="submit" class="submitbtn" asp-page-handler="Render" value="OK" />
+                    <input id="form1cancel" type="submit" class="submitbtn" asp-page-handler="Cancel" value="CANCEL" />
+                </div>
+            </div>
+        </form>
+    }
+    @if (Model.isCorrect)
+    {
+        <form id="form2" method="post" class="formstyle" enctype="multipart/form-data">
+            <img name="photosave" class="celebrityimage" src="@Model._filePath" />
+            <div class="inputs">
+                <div>
+                    <input name="namesave" type="text" value="@Model._name" />
+                </div>
+                <div>
+                    <input name="nationsave" type="text" value="@Model._nation" />
+                </div>
+                <div>   
+                    <input type="submit" class="submitbtn" asp-page-handler="Save" value="CONFIRMATION" />
+                </div>
+                <div>
+                    <input id="form2cancel" type="submit" class="submitbtn" asp-page-handler="Cancel" value="CANCEL" />
+                </div>
+            </div>
+        </form>
+    }
+</div>

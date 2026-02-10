@@ -1,0 +1,9 @@
+﻿@page "/Celebrities/{id:int}"
+@model ASPA007_1.Pages.PhotoPageModel
+@{
+    ViewData["Title"] = Model.celebrity.FullName;
+}
+<div>
+    <h2>@Model.celebrity.FullName</h2>
+    <img class="photocel" src="~/photo/@Model.celebrity.ReqPhotoPath"/>
+</div>

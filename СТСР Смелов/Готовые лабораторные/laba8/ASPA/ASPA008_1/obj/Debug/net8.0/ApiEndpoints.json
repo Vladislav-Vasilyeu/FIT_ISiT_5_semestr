@@ -1,0 +1,322 @@
+[
+  {
+    "ContainingType": "ASPA008_1.API.CelebritiesEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCelebrities\u003Eb__0_0",
+    "RelativePath": "api/Celebrities",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPA008_1.API.LifeeventsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapLifeevents\u003Eb__0_0",
+    "RelativePath": "api/Lifeevents",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPA008_1.API.PhotoCelebrities\u002B\u003C\u003Ec",
+    "Method": "\u003CMapPhotoCelebrities\u003Eb__0_0",
+    "RelativePath": "api/PhotoCelebrities",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ANC25_WEBAPI_DLL.CelebritiesEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCelebritiesEndpoints\u003Eb__0_0",
+    "RelativePath": "celebrities/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DAL_Celebrity_MSSQL.Celebrity, DAL_Celebrity_MSSQL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ANC25_WEBAPI_DLL.CelebritiesEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCelebritiesEndpoints\u003Eb__0_3",
+    "RelativePath": "celebrities/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "celebrity",
+        "Type": "DAL_Celebrity_MSSQL.Celebrity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ANC25_WEBAPI_DLL.CelebritiesEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCelebritiesEndpoints\u003Eb__0_2",
+    "RelativePath": "celebrities/{id:int:min(1)}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ANC25_WEBAPI_DLL.CelebritiesEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCelebritiesEndpoints\u003Eb__0_4",
+    "RelativePath": "celebrities/{id:int:min(1)}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "celebrity",
+        "Type": "DAL_Celebrity_MSSQL.Celebrity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ANC25_WEBAPI_DLL.CelebritiesEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCelebritiesEndpoints\u003Eb__0_1",
+    "RelativePath": "celebrities/LifeEvents/{eventId:int:min(1)}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DAL_Celebrity_MSSQL.Celebrity",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ANC25_WEBAPI_DLL.CelebritiesEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCelebritiesEndpoints\u003Eb__0_5",
+    "RelativePath": "celebrities/photo/{fileName}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ANC25_WEBAPI_DLL.LifeEventsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapLifeEventsEndpoints\u003Eb__0_0",
+    "RelativePath": "lifeevents/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DAL_Celebrity_MSSQL.Lifeevent, DAL_Celebrity_MSSQL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ANC25_WEBAPI_DLL.LifeEventsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapLifeEventsEndpoints\u003Eb__0_4",
+    "RelativePath": "lifeevents/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "lifeEvent",
+        "Type": "DAL_Celebrity_MSSQL.Lifeevent",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ANC25_WEBAPI_DLL.LifeEventsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapLifeEventsEndpoints\u003Eb__0_1",
+    "RelativePath": "lifeevents/{id:int:min(1)}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DAL_Celebrity_MSSQL.Lifeevent",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ANC25_WEBAPI_DLL.LifeEventsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapLifeEventsEndpoints\u003Eb__0_3",
+    "RelativePath": "lifeevents/{id:int:min(1)}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ANC25_WEBAPI_DLL.LifeEventsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapLifeEventsEndpoints\u003Eb__0_5",
+    "RelativePath": "lifeevents/{id:int:min(1)}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "lifeEvent",
+        "Type": "DAL_Celebrity_MSSQL.Lifeevent",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ANC25_WEBAPI_DLL.LifeEventsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapLifeEventsEndpoints\u003Eb__0_2",
+    "RelativePath": "lifeevents/celebrities/{celebrityId:int:min(1)}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "celebrityId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DAL_Celebrity_MSSQL.Lifeevent, DAL_Celebrity_MSSQL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

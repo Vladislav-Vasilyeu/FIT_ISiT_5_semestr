@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ANC25_WEBAPI_DLL.props" />
+</Project>

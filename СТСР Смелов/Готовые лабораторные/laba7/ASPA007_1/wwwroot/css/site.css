@@ -1,0 +1,68 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+li {
+    display: inline-block;
+}
+
+.celebrityimage, .photocel {
+    height: 200px;
+}
+
+.formstyle {
+    padding: 3px 0 3px 0;
+    display: flex;
+    align-items: center;
+    background-color: #876726;
+    width: max-content;
+}
+
+.inputs {
+    padding: 0px 3px 0 3px;
+}
+
+.submitbtn {
+    width: 210px;
+}
+
+.inputname {
+    width: 330px;
+}
+
+.inputnat {
+    width: 90px;
+}
+
+.inputfile {
+    width: 420px;
+}
+
+/* Временно: принудительно показывать изображения и отменить absolute */
+.block-images img,
+.celebrityimage,
+.photocel {
+    position: static !important;
+    display: inline-block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}

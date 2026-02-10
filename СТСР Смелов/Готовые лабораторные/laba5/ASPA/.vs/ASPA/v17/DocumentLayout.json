@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0421\u0422\u0421\u0420 \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\laba5\\ASPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79C26F47-CC1B-4FA5-AE80-7F384F3CA503}|Test_ASPA005_3\\Test_ASPA005_3.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0441\u0442\u0441\u0440 \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\laba5\\aspa\\test_aspa005_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C26F47-CC1B-4FA5-AE80-7F384F3CA503}|Test_ASPA005_3\\Test_ASPA005_3.csproj|solutionrelative:test_aspa005_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6956E459-7B58-4C90-92E9-0D7A415A1A8F}|ASPA005_3\\ASPA005_3.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0441\u0442\u0441\u0440 \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\laba5\\aspa\\aspa005_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6956E459-7B58-4C90-92E9-0D7A415A1A8F}|ASPA005_3\\ASPA005_3.csproj|solutionrelative:aspa005_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6956E459-7B58-4C90-92E9-0D7A415A1A8F}|ASPA005_3\\ASPA005_3.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0441\u0442\u0441\u0440 \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\laba5\\aspa\\aspa005_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6956E459-7B58-4C90-92E9-0D7A415A1A8F}|ASPA005_3\\ASPA005_3.csproj|solutionrelative:aspa005_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8577FE4D-DD86-4B74-A807-23DBFF2D8E81}|ASPA005_1\\ASPA005_1.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0441\u0442\u0441\u0440 \u0441\u043C\u0435\u043B\u043E\u0432\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\laba5\\aspa\\aspa005_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8577FE4D-DD86-4B74-A807-23DBFF2D8E81}|ASPA005_1\\ASPA005_1.csproj|solutionrelative:aspa005_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0421\u0422\u0421\u0420 \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\laba5\\ASPA\\ASPA005_3\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPA005_3\\appsettings.json",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0421\u0422\u0421\u0420 \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\laba5\\ASPA\\ASPA005_3\\appsettings.json",
+              "RelativeToolTip": "ASPA005_3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T07:31:59.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0421\u0422\u0421\u0420 \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\laba5\\ASPA\\ASPA005_1\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA005_1\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0421\u0422\u0421\u0420 \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\laba5\\ASPA\\ASPA005_1\\Program.cs",
+              "RelativeToolTip": "ASPA005_1\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAF8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:20:39.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0421\u0422\u0421\u0420 \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\laba5\\ASPA\\ASPA005_3\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA005_3\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0421\u0422\u0421\u0420 \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\laba5\\ASPA\\ASPA005_3\\Program.cs",
+              "RelativeToolTip": "ASPA005_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:20:29.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0421\u0422\u0421\u0420 \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\laba5\\ASPA\\Test_ASPA005_3\\Program.cs",
+              "RelativeDocumentMoniker": "Test_ASPA005_3\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0421\u0422\u0421\u0420 \u0421\u043C\u0435\u043B\u043E\u0432\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\laba5\\ASPA\\Test_ASPA005_3\\Program.cs",
+              "RelativeToolTip": "Test_ASPA005_3\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T07:25:02.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 800,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

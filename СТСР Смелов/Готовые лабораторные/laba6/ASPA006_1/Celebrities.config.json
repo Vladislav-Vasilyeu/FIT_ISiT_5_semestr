@@ -1,0 +1,6 @@
+{
+  "Celebrities": {
+    "PhotosFolder": "photo",
+    "ConnectionString": "Server=VladPC;Database=Life Events of  Celebrities;Trusted_Connection=True;TrustServerCertificate=True;"
+  }
+}

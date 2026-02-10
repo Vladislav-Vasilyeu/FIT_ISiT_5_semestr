@@ -1,0 +1,18 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Celebrities";
+}
+
+<div class="text-start">
+    <h1>Celebrities</h1>
+    <div class="block-images">
+        <a asp-page="/0"><img class="celebrityimage" src="~/photo/iconka.png"/></a>
+        @foreach (var c in Model.cs)
+        {
+            <a asp-page="/PhotoPage" asp-route-id="@c.Id">
+                <img class="celebrityimage" src="~/photo/@c.ReqPhotoPath" />
+            </a>
+        }
+    </div>
+</div>

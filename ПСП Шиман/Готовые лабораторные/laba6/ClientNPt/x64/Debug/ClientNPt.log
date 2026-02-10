@@ -1,0 +1,10 @@
+﻿  ClientNPt.cpp
+D:\БГТУ\V сем\ПСП\lab06\ClientNPt\ClientNPt.cpp(8,9): warning C4005: INADDR_ANY: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ws2def.h(606,9):
+      см. предыдущее определение "INADDR_ANY"
+  
+D:\БГТУ\V сем\ПСП\lab06\ClientNPt\ClientNPt.cpp(10,9): warning C4005: INADDR_BROADCAST: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ws2def.h(608,9):
+      см. предыдущее определение "INADDR_BROADCAST"
+  
+  ClientNPt.vcxproj -> D:\БГТУ\V сем\ПСП\lab06\x64\Debug\ClientNPt.exe

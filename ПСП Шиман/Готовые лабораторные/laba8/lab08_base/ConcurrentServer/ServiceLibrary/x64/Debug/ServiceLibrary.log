@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\Win32Project1\Win32Project1\dllmain.cpp(2,26): warning C4616: предупреждение #pragma: предупреждение с номером "2664" не является действительным предупреждением компилятора
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\Win32Project1\Win32Project1\dllmain.cpp(2,31): warning C4081: требуется "newline"; обнаружен ";"
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\Win32Project1\Win32Project1\PrototypeService.h(84,7): warning C4101: lobuf: неиспользованная локальная переменная
+  (компиляция исходного файла "../../Win32Project1/Win32Project1/dllmain.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\Win32Project1\Win32Project1\PrototypeService.h(133,6): warning C4101: lobuf: неиспользованная локальная переменная
+  (компиляция исходного файла "../../Win32Project1/Win32Project1/dllmain.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\Win32Project1\Win32Project1\PrototypeService.h(133,13): warning C4101: libuf: неиспользованная локальная переменная
+  (компиляция исходного файла "../../Win32Project1/Win32Project1/dllmain.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\Win32Project1\Win32Project1\PrototypeService.h(151,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "../../Win32Project1/Win32Project1/dllmain.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\Win32Project1\Win32Project1\PrototypeService.h(152,6): warning C4101: lobuf: неиспользованная локальная переменная
+  (компиляция исходного файла "../../Win32Project1/Win32Project1/dllmain.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\Win32Project1\Win32Project1\PrototypeService.h(152,13): warning C4101: libuf: неиспользованная локальная переменная
+  (компиляция исходного файла "../../Win32Project1/Win32Project1/dllmain.cpp")
+  
+  ErrorFunctions.cpp
+     Создается библиотека D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\x64\Debug\ServiceLibrary.lib и объект D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\x64\Debug\ServiceLibrary.exp
+  ServiceLibrary.vcxproj -> D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\x64\Debug\ServiceLibrary.dll

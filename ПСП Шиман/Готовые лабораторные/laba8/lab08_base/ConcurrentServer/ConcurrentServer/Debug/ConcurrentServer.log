@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  ConcurrentServer.cpp
+C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(68,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(76,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(240,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(279,21): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(362,25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(470,128): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(537,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(541,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(542,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(546,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(547,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ErrorFunctions.cpp
+  Создание кода...
+C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(223,1): warning C4715: set_param: значение возвращается не при всех путях выполнения
+  ConcurrentServer.vcxproj -> C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\Debug\ConcurrentServer.exe

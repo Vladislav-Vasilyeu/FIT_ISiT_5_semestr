@@ -1,0 +1,34 @@
+﻿  stdafx.cpp
+  ClientT.cpp
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\server test\ClientT\ClientT\ClientT.cpp(181,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/ClientT.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\server test\ClientT\ClientT\ClientT.cpp(178,18): warning C4101: obuf: неиспользованная локальная переменная
+  (компиляция исходного файла "/ClientT.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\server test\ClientT\ClientT\ClientT.cpp(436,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/ClientT.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\server test\ClientT\ClientT\ClientT.cpp(500,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/ClientT.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\server test\ClientT\ClientT\ClientT.cpp(318,19): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (компиляция исходного файла "/ClientT.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\server test\ClientT\ClientT\ClientT.cpp(427,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/ClientT.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\server test\ClientT\ClientT\ClientT.cpp(429,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/ClientT.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\server test\ClientT\ClientT\ClientT.cpp(499,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/ClientT.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\server test\ClientT\ClientT\ClientT.cpp(239,7): warning C4101: port: неиспользованная локальная переменная
+  (компиляция исходного файла "/ClientT.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\server test\ClientT\ClientT\ClientT.cpp(414,5): warning C4101: obuf: неиспользованная локальная переменная
+  (компиляция исходного файла "/ClientT.cpp")
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\server test\ClientT\ClientT\ClientT.cpp(215,1): warning C4715: HandlerRountime: значение возвращается не при всех путях выполнения
+  ClientT.vcxproj -> D:\Универ\ПСП Шиман\Готовые лабораторные\laba8\lab08_base\x64\Debug\ClientT.exe

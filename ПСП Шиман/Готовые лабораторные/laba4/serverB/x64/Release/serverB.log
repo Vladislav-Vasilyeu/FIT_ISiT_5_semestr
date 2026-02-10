@@ -1,0 +1,11 @@
+﻿  serverB.cpp
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba4\serverB\serverB.cpp(31,68): warning C4566: символ, представленный универсальным именем символа "\u2192", невозможно представить в текущей кодовой странице (1251)
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba4\serverB\serverB.cpp(43,31): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba4\serverB\serverB.cpp(51,13): warning C4566: символ, представленный универсальным именем символа "\u2192", невозможно представить в текущей кодовой странице (1251)
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba4\serverB\serverB.cpp(76,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  1 of 147 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  serverB.vcxproj -> D:\Универ\ПСП Шиман\Готовые лабораторные\laba4\Client\x64\Release\serverB.exe

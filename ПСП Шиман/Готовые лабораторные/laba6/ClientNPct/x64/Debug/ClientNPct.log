@@ -1,0 +1,11 @@
+﻿  ClientNPct.cpp
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba6\ClientNPct\ClientNPct.cpp(7,9): warning C4005: INADDR_ANY: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ws2def.h(606,9):
+      см. предыдущее определение "INADDR_ANY"
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba6\ClientNPct\ClientNPct.cpp(9,9): warning C4005: INADDR_BROADCAST: изменение макроопределения
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ws2def.h(608,9):
+      см. предыдущее определение "INADDR_BROADCAST"
+  
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba6\ClientNPct\ClientNPct.cpp(84,12): warning C4101: hPipe: неиспользованная локальная переменная
+  ClientNPct.vcxproj -> D:\Универ\ПСП Шиман\Готовые лабораторные\laba6\x64\Debug\ClientNPct.exe

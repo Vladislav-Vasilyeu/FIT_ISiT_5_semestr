@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\5sem\PSPLab8LastDay\lab8\Win32Project1\Win32Project1\dllmain.cpp(2,26): warning C4616: предупреждение #pragma: предупреждение с номером "2664" не является действительным предупреждением компилятора
+C:\5sem\PSPLab8LastDay\lab8\Win32Project1\Win32Project1\dllmain.cpp(2,31): warning C4081: требуется "newline"; обнаружен ";"
+C:\5sem\PSPLab8LastDay\lab8\Win32Project1\Win32Project1\PrototypeService.h(93,7): warning C4101: lobuf: неиспользованная локальная переменная
+C:\5sem\PSPLab8LastDay\lab8\Win32Project1\Win32Project1\PrototypeService.h(143,6): warning C4101: lobuf: неиспользованная локальная переменная
+C:\5sem\PSPLab8LastDay\lab8\Win32Project1\Win32Project1\PrototypeService.h(143,13): warning C4101: libuf: неиспользованная локальная переменная
+C:\5sem\PSPLab8LastDay\lab8\Win32Project1\Win32Project1\PrototypeService.h(161,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\5sem\PSPLab8LastDay\lab8\Win32Project1\Win32Project1\PrototypeService.h(162,6): warning C4101: lobuf: неиспользованная локальная переменная
+C:\5sem\PSPLab8LastDay\lab8\Win32Project1\Win32Project1\PrototypeService.h(162,13): warning C4101: libuf: неиспользованная локальная переменная
+  ErrorFunctions.cpp
+     Создается библиотека C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\Debug\ServiceLibrary.lib и объект C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\Debug\ServiceLibrary.exp
+  ServiceLibrary.vcxproj -> C:\5sem\PSPLab8LastDay\lab8\ConcurrentServer\Debug\ServiceLibrary.dll

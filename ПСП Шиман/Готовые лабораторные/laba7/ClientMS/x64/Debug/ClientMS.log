@@ -1,0 +1,5 @@
+﻿  ClientMS.cpp
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba7\ClientMS\ClientMS.cpp(52,49): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba7\ClientMS\ClientMS.cpp(81,53): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\Универ\ПСП Шиман\Готовые лабораторные\laba7\ClientMS\ClientMS.cpp(98,49): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  ClientMS.vcxproj -> D:\Универ\ПСП Шиман\Готовые лабораторные\laba7\ServerMS\x64\Debug\ClientMS.exe

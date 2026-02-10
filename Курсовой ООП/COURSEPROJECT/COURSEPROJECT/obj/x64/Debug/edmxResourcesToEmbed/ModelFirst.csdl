@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ModelFirst" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="ModelFirstContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="OrdersSet" EntityType="ModelFirst.Orders" />
+    <EntitySet Name="UsersSet" EntityType="ModelFirst.Users" />
+    <EntitySet Name="ComputersSet" EntityType="ModelFirst.Computers" />
+    <AssociationSet Name="ComputersOrders" Association="ModelFirst.ComputersOrders">
+      <End Role="Computers" EntitySet="ComputersSet" />
+      <End Role="Orders" EntitySet="OrdersSet" />
+    </AssociationSet>
+    <AssociationSet Name="OrdersUsers" Association="ModelFirst.OrdersUsers">
+      <End Role="Orders" EntitySet="OrdersSet" />
+      <End Role="Users" EntitySet="UsersSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <ComplexType Name="ComplexType1" />
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_id" Type="Int32" Nullable="false" />
+    <Property Name="Computer_id" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="String" Nullable="false" />
+    <Property Name="DateOrder" Type="String" Nullable="false" />
+    <Property Name="StartTime" Type="String" Nullable="false" />
+    <Property Name="EndTime" Type="String" Nullable="false" />
+    <NavigationProperty Name="Computers1" Relationship="ModelFirst.ComputersOrders" FromRole="Orders" ToRole="Computers" />
+    <Property Name="ComputersId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Users1" Relationship="ModelFirst.OrdersUsers" FromRole="Orders" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="Password" Type="String" Nullable="false" />
+    <NavigationProperty Name="Orders1" Relationship="ModelFirst.OrdersUsers" FromRole="Users" ToRole="Orders" />
+    <Property Name="OrdersId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Computers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="Description" Type="String" Nullable="false" />
+    <Property Name="Cpu" Type="String" Nullable="false" />
+    <Property Name="Gpu" Type="String" Nullable="false" />
+    <Property Name="Ram" Type="String" Nullable="false" />
+    <Property Name="Storage" Type="String" Nullable="false" />
+    <Property Name="Monitor" Type="String" Nullable="false" />
+    <Property Name="Rating" Type="Double" Nullable="false" />
+    <Property Name="PricePerHour" Type="Double" Nullable="false" />
+    <Property Name="GraphicData" Type="Binary" Nullable="false" />
+    <NavigationProperty Name="Orders1" Relationship="ModelFirst.ComputersOrders" FromRole="Computers" ToRole="Orders" />
+  </EntityType>
+  <Association Name="ComputersOrders">
+    <End Type="ModelFirst.Computers" Role="Computers" Multiplicity="1" />
+    <End Type="ModelFirst.Orders" Role="Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Computers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="ComputersId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="OrdersUsers">
+    <End Type="ModelFirst.Orders" Role="Orders" Multiplicity="1" />
+    <End Type="ModelFirst.Users" Role="Users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="OrdersId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

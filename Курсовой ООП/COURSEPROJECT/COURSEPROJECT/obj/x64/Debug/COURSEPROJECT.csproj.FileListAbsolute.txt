@@ -1,0 +1,263 @@
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\Strings.ru-RU.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\styles\Styles.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\styles\StyleTheme1.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\styles\StyleTheme2.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\Strings.en-US.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\App.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\authorization.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\registration.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\App.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT_MarkupCompile.cache
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT_MarkupCompile.lref
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\COURSEPROJECT.exe.config
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\COURSEPROJECT.exe
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\COURSEPROJECT.pdb
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignColors.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Buffers.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.IO.Pipelines.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Memory.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Text.Json.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignColors.pdb
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Buffers.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.IO.Pipelines.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Memory.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Text.Encodings.Web.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Text.Json.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\authorization.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\MainWindow.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\registration.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.g.resources
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.Properties.Resources.resources
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPR.A3E31C80.Up2Date
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.exe
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.pdb
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\PersonalAccount.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\PersonalAccount.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\mapbooking.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\mapbooking.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\RadiusButton.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\RadiusButton.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT_Content.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\LaunchingGames.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\WpfAnimatedGif.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\WpfAnimatedGif.pdb
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\WpfAnimatedGif.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\LaunchingGames.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\Item.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\Item.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\CustomPasswordBox.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\CustomPasswordBox.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\MusicValueElement.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\MusicValueElement.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\AdminTable.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\AdminTable.baml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\EntityFramework.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\EntityFramework.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.Migrations.InitialCreate.resources
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\WritingReview.g.cs
+C:\Users\andre\Desktop\4 семестр\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\WritingReview.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\COURSEPROJECT.exe.config
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\COURSEPROJECT.exe
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\COURSEPROJECT.pdb
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\EntityFramework.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\EntityFramework.SqlServer.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignColors.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Xaml.Behaviors.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\SQLitePCLRaw.core.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Buffers.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.IO.Pipelines.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Memory.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Numerics.Vectors.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Text.Encodings.Web.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Text.Json.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.ValueTuple.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\WpfAnimatedGif.dll
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\EntityFramework.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\EntityFramework.SqlServer.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignColors.pdb
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignThemes.Wpf.pdb
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignThemes.Wpf.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Data.Sqlite.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Xaml.Behaviors.pdb
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Xaml.Behaviors.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Buffers.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.IO.Pipelines.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Memory.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Numerics.Vectors.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Text.Encodings.Web.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Text.Json.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.ValueTuple.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\WpfAnimatedGif.pdb
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\WpfAnimatedGif.xml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.csproj.AssemblyReference.cache
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.exe.config
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\RadiusButton.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\Strings.ru-RU.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\styles\Styles.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\styles\StyleTheme1.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\styles\StyleTheme2.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\Strings.en-US.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\App.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\AdminTable.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\authorization.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\CustomPasswordBox.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\Item.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\LaunchingGames.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\MainWindow.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\mapbooking.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\MusicValueElement.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\PersonalAccount.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\RadiusButton.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\registration.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\WritingReview.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\App.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT_Content.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT_MarkupCompile.cache
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT_MarkupCompile.lref
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\AdminTable.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\authorization.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\CustomPasswordBox.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\Item.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\LaunchingGames.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\MainWindow.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\mapbooking.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\MusicValueElement.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\PersonalAccount.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\registration.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\WritingReview.baml
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.g.resources
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.Migrations.InitialCreate.resources
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.Properties.Resources.resources
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.csproj.GenerateResource.cache
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.csproj.CoreCompileInputs.cache
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPR.A3E31C80.Up2Date
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.exe
+G:\Универ\Курсач ООП Спиздил\course_project\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.pdb
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\COURSEPROJECT.exe.config
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\COURSEPROJECT.exe
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\COURSEPROJECT.pdb
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\EntityFramework.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\EntityFramework.SqlServer.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignColors.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\SQLitePCLRaw.core.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Buffers.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.IO.Pipelines.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Memory.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Text.Json.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.ValueTuple.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\WpfAnimatedGif.dll
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\EntityFramework.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\EntityFramework.SqlServer.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignColors.pdb
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\MaterialDesignThemes.Wpf.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Data.Sqlite.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Buffers.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.IO.Pipelines.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Memory.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Text.Encodings.Web.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Text.Json.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\System.ValueTuple.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\WpfAnimatedGif.pdb
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\WpfAnimatedGif.xml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.csproj.AssemblyReference.cache
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\RadiusButton.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\Strings.ru-RU.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\styles\Styles.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\styles\StyleTheme1.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\styles\StyleTheme2.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\Strings.en-US.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\App.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\AdminTable.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\authorization.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\CustomPasswordBox.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\Item.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\LaunchingGames.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\MainWindow.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\mapbooking.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\MusicValueElement.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\PersonalAccount.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\RadiusButton.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\registration.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\WritingReview.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\App.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT_Content.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT_MarkupCompile.cache
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT_MarkupCompile.lref
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\AdminTable.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\authorization.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\CustomPasswordBox.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\Item.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\LaunchingGames.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\MainWindow.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\mapbooking.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\MusicValueElement.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\PersonalAccount.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\registration.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\WritingReview.baml
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.g.resources
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.Properties.Resources.resources
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.csproj.GenerateResource.cache
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.csproj.CoreCompileInputs.cache
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPR.A3E31C80.Up2Date
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.exe
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.pdb
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\bin\x64\Debug\sounds\music.mp3
+D:\Универ\Курсовой ООП\COURSEPROJECT\COURSEPROJECT\obj\x64\Debug\COURSEPROJECT.exe.config

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModelFirst.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ModelFirstStoreContainer">
+    <EntitySet Name="OrdersSet" EntityType="ModelFirst.Store.OrdersSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UsersSet" EntityType="ModelFirst.Store.UsersSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ComputersSet" EntityType="ModelFirst.Store.ComputersSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="ComputersOrders" Association="ModelFirst.Store.ComputersOrders">
+      <End Role="Computers" EntitySet="ComputersSet" />
+      <End Role="Orders" EntitySet="OrdersSet" />
+    </AssociationSet>
+    <AssociationSet Name="OrdersUsers" Association="ModelFirst.Store.OrdersUsers">
+      <End Role="Orders" EntitySet="OrdersSet" />
+      <End Role="Users" EntitySet="UsersSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="OrdersSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="User_id" Type="int" Nullable="false" />
+    <Property Name="Computer_id" Type="int" Nullable="false" />
+    <Property Name="Status" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="DateOrder" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="StartTime" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="EndTime" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="ComputersId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UsersSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Password" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="OrdersId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ComputersSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Cpu" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Gpu" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Ram" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Storage" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Monitor" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Rating" Type="float" Nullable="false" />
+    <Property Name="PricePerHour" Type="float" Nullable="false" />
+    <Property Name="GraphicData" Type="varbinary(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="ComputersOrders">
+    <End Role="Computers" Type="ModelFirst.Store.ComputersSet" Multiplicity="1" />
+    <End Role="Orders" Type="ModelFirst.Store.OrdersSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Computers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="ComputersId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="OrdersUsers">
+    <End Role="Orders" Type="ModelFirst.Store.OrdersSet" Multiplicity="1" />
+    <End Role="Users" Type="ModelFirst.Store.UsersSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="OrdersId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "STANDART",
+    "description": "Компьютер",
+    "cpu": "Intel Core i5",
+    "gpu": "NVIDIA GTX 1650",
+    "ram": "16 ГБ",
+    "storage": "512 ГБ SSD",
+    "monitor": "24\" 144 Гц",
+    "rating": "3***",
+    "price": "500"
+  },
+  {
+    "id": "2",
+    "name": "PRO",
+    "description": "Компьютер",
+    "cpu": "Intel Core i7",
+    "gpu": "NVIDIA RTX 3060",
+    "ram": "32 ГБ",
+    "storage": "1 ТБ SSD",
+    "monitor": "27\" 165 Гц",
+    "rating": "4****",
+    "price": "800"
+  },
+  {
+    "id": "3",
+    "name": "PREMIUM",
+    "description": "Компьютер",
+    "cpu": "AMD Ryzen 7",
+    "gpu": "NVIDIA RTX 3090",
+    "ram": "32 ГБ",
+    "storage": "1 ТБ NVMe SSD",
+    "monitor": "27\" 240 Гц",
+    "rating": "5*****",
+    "price": "1200"
+  },
+  {
+    "id": "4",
+    "name": "VIP",
+    "description": "Компьютер",
+    "cpu": "Intel Core i9",
+    "gpu": "NVIDIA RTX 4090ti",
+    "ram": "128 ГБ",
+    "storage": "2 ТБ NVMe SSD",
+    "monitor": "32\" 240 Гц",
+    "rating": "5*****",
+    "price": "2000"
+  },
+  {
+    "id": "5",
+    "name": "ECONOM",
+    "description": "Компьютер",
+    "cpu": "Intel Core i3",
+    "gpu": "NVIDIA GTX 1050",
+    "ram": "16",
+    "storage": "256 SSD",
+    "monitor": "24 120 Гц",
+    "rating": "2**",
+    "price": "200"
+  },
+  {
+    "id": "6",
+    "name": "ULTRA",
+    "description": "Компьютер",
+    "cpu": "AMD Ryzen 9",
+    "gpu": "NVIDIA RTX 4080",
+    "ram": "64 ГБ",
+    "storage": "2 ТБ SSD",
+    "monitor": "32\" 165 Гц",
+    "rating": "5*****",
+    "price": "1800"
+  },
+  {
+    "id": "7",
+    "name": "BUDGET",
+    "description": "Компьютер",
+    "cpu": "Intel Pentium G5400",
+    "gpu": "Intel UHD Graphics 610",
+    "ram": "8 ГБ",
+    "storage": "128 ГБ SSD",
+    "monitor": "21.5\" 60 Гц",
+    "rating": "1*",
+    "price": "100"
+  },
+  {
+    "id": "8",
+    "name": "GAMER",
+    "description": "Компьютер",
+    "cpu": "Intel Core i7-12700K",
+    "gpu": "NVIDIA RTX 3070",
+    "ram": "32 ГБ",
+    "storage": "1 ТБ SSD",
+    "monitor": "27\" 144 Гц",
+    "rating": "4****",
+    "price": "1500"
+  },
+  {
+    "id": "9",
+    "name": "OFFICE",
+    "description": "Компьютер",
+    "cpu": "Intel Core i5-11400",
+    "gpu": "Intel UHD Graphics 730",
+    "ram": "16 ГБ",
+    "storage": "512 ГБ SSD",
+    "monitor": "24\" 75 Гц",
+    "rating": "3***",
+    "price": "600"
+  },
+  {
+    "id": "10",
+    "name": "EXTREME",
+    "description": "Компьютер",
+    "cpu": "AMD Threadripper 3990X",
+    "gpu": "NVIDIA RTX 4090",
+    "ram": "128 ГБ",
+    "storage": "4 ТБ NVMe SSD",
+    "monitor": "34\" 240 Гц",
+    "rating": "5*****",
+    "price": "3000"
+  }
+]

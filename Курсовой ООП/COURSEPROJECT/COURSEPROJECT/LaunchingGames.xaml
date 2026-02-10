@@ -1,0 +1,39 @@
+﻿<Window x:Class="COURSEPROJECT.LaunchingGames"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:local="clr-namespace:COURSEPROJECT"
+        mc:Ignorable="d"
+        Title="{DynamicResource Launchinggames}" Height="720" Width="1280"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image Source="/images/animfonframe.png" 
+           Stretch="UniformToFill"
+           Panel.ZIndex="-1"/>
+        <Image x:Name="AnimatedGif"
+           Source="{DynamicResource DynamicGifSource}"
+           gif:ImageBehavior.AnimatedSource="{DynamicResource DynamicGifSource}"
+           gif:ImageBehavior.RepeatBehavior="Forever"
+           Stretch="UniformToFill"
+           Panel.ZIndex="-1"
+           Opacity="0"
+           Loaded="AnimatedGif_Loaded"/>
+        <DockPanel LastChildFill="True">
+            <StackPanel Margin="0 10 0 0" DockPanel.Dock="Top" Height="50" Orientation="Horizontal" x:Name="StackHeader">
+                <Border Style="{DynamicResource FilteringSearchBorderStyle}">
+                    <TextBox Style="{DynamicResource TextBoxDataTrigger}" x:Name="ResearchPCInformation" MaxLength="20"/>
+                </Border>
+                <Button Style="{DynamicResource TransparentButtonStyle}" Background="Transparent" BorderThickness="0" x:Name="search" Click="SearchClick">
+                    <Image Style="{DynamicResource FilteringSearchImageStyle}" Source="/images/search2.png"/>
+                </Button>
+            </StackPanel>
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <UniformGrid DockPanel.Dock="Top" Margin="10 0 10 0" x:Name="Items" Columns="4" Rows="1" VerticalAlignment="Top">
+                    
+                </UniformGrid>
+            </ScrollViewer>
+        </DockPanel>
+    </Grid>
+</Window>

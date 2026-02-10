@@ -1,0 +1,586 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\writingreview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\writingreview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\launchinggames.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\launchinggames.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\item.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\item.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043E\u043E\u043F\\courseproject\\courseproject\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\mapbooking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\mapbooking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\radiusbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\radiusbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\radiusbutton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\radiusbutton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\musicvalueelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\musicvalueelement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\musicvalueelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\musicvalueelement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\writingreview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\writingreview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\personalaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\personalaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\personalaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\personalaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\mapbooking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\mapbooking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\launchinggames.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\launchinggames.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\item.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\item.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\custompasswordbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\custompasswordbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\custompasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\custompasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\customcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\customcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\admintable.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\admintable.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\admintable.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\admintable.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\styles\\styletheme2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\styles\\styletheme2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\styles\\styletheme1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\styles\\styletheme1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\strings.en-us.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\strings.en-us.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\courseproject\\strings.ru-ru.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D332B9EA-5B6E-48BB-B6D3-4EBD74ECB7EE}|COURSEPROJECT\\COURSEPROJECT.csproj|solutionrelative:courseproject\\strings.ru-ru.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 851,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "database.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\database.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\database.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\database.cs",
+              "RelativeToolTip": "COURSEPROJECT\\database.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAApwDYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T19:16:02.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\MainWindow.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T21:53:00.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RadiusButton.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\RadiusButton.xaml.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\RadiusButton.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\RadiusButton.xaml.cs",
+              "RelativeToolTip": "COURSEPROJECT\\RadiusButton.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T23:51:34.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hash.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\hash.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\hash.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\hash.cs",
+              "RelativeToolTip": "COURSEPROJECT\\hash.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T23:50:50.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "mapbooking.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\mapbooking.xaml.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\mapbooking.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\mapbooking.xaml.cs",
+              "RelativeToolTip": "COURSEPROJECT\\mapbooking.xaml.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAAAPcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T23:51:14.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\MainWindow.xaml.cs",
+              "RelativeToolTip": "COURSEPROJECT\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACwCAAAAAAAAAAAgwDQCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T21:53:24.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "authorization.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\authorization.xaml.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\authorization.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\authorization.xaml.cs",
+              "RelativeToolTip": "COURSEPROJECT\\authorization.xaml.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwGkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T03:56:55.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\Item.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\Item.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\Item.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\Item.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T23:50:59.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LaunchingGames.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\LaunchingGames.xaml.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\LaunchingGames.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\LaunchingGames.xaml.cs",
+              "RelativeToolTip": "COURSEPROJECT\\LaunchingGames.xaml.cs",
+              "ViewState": "AgIAAP8BAAAAAAAAAAAAAFECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T22:04:03.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WritingReview.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\WritingReview.xaml.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\WritingReview.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\WritingReview.xaml.cs",
+              "RelativeToolTip": "COURSEPROJECT\\WritingReview.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwFwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T22:00:54.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RadiusButton.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\RadiusButton.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\RadiusButton.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\RadiusButton.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\RadiusButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T23:51:31.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MusicValueElement.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\MusicValueElement.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\MusicValueElement.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\MusicValueElement.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\MusicValueElement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T23:51:17.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MusicValueElement.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\MusicValueElement.xaml.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\MusicValueElement.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\MusicValueElement.xaml.cs",
+              "RelativeToolTip": "COURSEPROJECT\\MusicValueElement.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T23:51:21.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "registration.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\registration.xaml.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\registration.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\registration.xaml.cs",
+              "RelativeToolTip": "COURSEPROJECT\\registration.xaml.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAQwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T21:49:20.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Strings.ru-RU.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\Strings.ru-RU.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\Strings.ru-RU.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\Strings.ru-RU.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\Strings.ru-RU.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T23:51:43.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Item.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\Item.xaml.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\Item.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\Item.xaml.cs",
+              "RelativeToolTip": "COURSEPROJECT\\Item.xaml.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAADwvxQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T21:57:56.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LaunchingGames.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\LaunchingGames.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\LaunchingGames.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\LaunchingGames.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\LaunchingGames.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T23:51:05.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mapbooking.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\mapbooking.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\mapbooking.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\mapbooking.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\mapbooking.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T23:51:12.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminTable.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\AdminTable.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\AdminTable.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\AdminTable.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\AdminTable.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-05T08:57:38.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonalAccount.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\PersonalAccount.xaml.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\PersonalAccount.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\PersonalAccount.xaml.cs",
+              "RelativeToolTip": "COURSEPROJECT\\PersonalAccount.xaml.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAQwO4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T21:51:01.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "registration.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\registration.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\registration.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\registration.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\registration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T23:51:37.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WritingReview.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\WritingReview.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\WritingReview.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\WritingReview.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\WritingReview.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T23:51:46.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersonalAccount.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\PersonalAccount.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\PersonalAccount.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\PersonalAccount.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\PersonalAccount.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T23:51:24.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Strings.en-US.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\Strings.en-US.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\Strings.en-US.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\Strings.en-US.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\Strings.en-US.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T23:51:41.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StyleTheme1.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\styles\\StyleTheme1.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\styles\\StyleTheme1.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\styles\\StyleTheme1.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\styles\\StyleTheme1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-20T07:40:49.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StyleTheme2.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\styles\\StyleTheme2.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\styles\\StyleTheme2.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\styles\\StyleTheme2.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\styles\\StyleTheme2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-20T07:41:47.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\styles\\Styles.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\styles\\Styles.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\styles\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-20T07:38:03.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomPasswordBox.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\CustomPasswordBox.xaml.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\CustomPasswordBox.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\CustomPasswordBox.xaml.cs",
+              "RelativeToolTip": "COURSEPROJECT\\CustomPasswordBox.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvzgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T07:52:44.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomCommand.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\CustomCommand.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\CustomCommand.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\CustomCommand.cs",
+              "RelativeToolTip": "COURSEPROJECT\\CustomCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T23:50:38.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "authorization.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\authorization.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\authorization.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\authorization.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\authorization.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T23:50:32.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\App.xaml.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\App.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\App.xaml.cs",
+              "RelativeToolTip": "COURSEPROJECT\\App.xaml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T19:24:46.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomPasswordBox.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\CustomPasswordBox.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\CustomPasswordBox.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\CustomPasswordBox.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\CustomPasswordBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T23:50:34.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\App.xaml",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\App.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\App.xaml",
+              "RelativeToolTip": "COURSEPROJECT\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T23:37:07.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminTable.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\AdminTable.xaml.cs",
+              "RelativeDocumentMoniker": "COURSEPROJECT\\AdminTable.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u041E\u041E\u041F\\COURSEPROJECT\\COURSEPROJECT\\AdminTable.xaml.cs",
+              "RelativeToolTip": "COURSEPROJECT\\AdminTable.xaml.cs",
+              "ViewState": "AgIAAAoEAAAAAAAAAAAAADMEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T21:45:26.889Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 740,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

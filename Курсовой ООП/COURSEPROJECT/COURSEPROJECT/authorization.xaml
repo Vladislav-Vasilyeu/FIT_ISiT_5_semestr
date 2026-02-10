@@ -1,0 +1,34 @@
+﻿<Window x:Class="COURSEPROJECT.authorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:COURSEPROJECT"
+        mc:Ignorable="d"
+        Title="{DynamicResource Auth}" Height="300" Width="400"
+        WindowStartupLocation="CenterScreen">
+    
+   
+
+    <Grid Style="{DynamicResource GridAuthorization}">
+        <Border Style="{DynamicResource AuthorizationBorderStyle}">
+            <StackPanel Style="{DynamicResource AuthorizationStackPanelStyle}">
+                <TextBlock Style="{DynamicResource AuthorizationTextBlockStyle}" Text="{DynamicResource Auth}"/>
+                <TextBlock Style="{DynamicResource AuthorizationLabelTextBlockStyle}" Text="{DynamicResource Login}"/>
+                <Border Style="{DynamicResource AuthorizationInputBorderStyle}">
+                    <TextBox Style="{DynamicResource AuthorizationTextBoxStyle}" x:Name="Login"/>
+                </Border>
+                <TextBlock Style="{DynamicResource AuthorizationLabelTextBlockStyle}" Text="{DynamicResource Password}"/>
+                <Border Style="{DynamicResource AuthorizationInputBorderStyle}">
+                    <PasswordBox Style="{DynamicResource AuthorizationPasswordBoxStyle}" x:Name="Password"/>
+                </Border>
+                <Border>
+                    <Button Style="{DynamicResource AuthorizationButtonStyleTrigger}" Content="{DynamicResource Registration}" Command="{Binding RegistrationCommand}"/>
+                </Border>
+                <Border>
+                    <Button Style="{DynamicResource AuthorizationButtonStyleTrigger}" Content="{DynamicResource Entrance}" Command="{Binding AuthorizationClickCommand}"/>
+                </Border>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
